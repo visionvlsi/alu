@@ -1,0 +1,7914 @@
+$date
+	Wed Feb 02 12:16:08 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module sky130_fd_sc_hd__a2111o_1 $end
+$var wire 1 ! A1 $end
+$var wire 1 " A2 $end
+$var wire 1 # B1 $end
+$var wire 1 $ C1 $end
+$var wire 1 % D1 $end
+$var wire 1 & VGND $end
+$var wire 1 ' VNB $end
+$var wire 1 ( VPB $end
+$var wire 1 ) VPWR $end
+$var wire 1 * X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a2111o_2 $end
+$var wire 1 + A1 $end
+$var wire 1 , A2 $end
+$var wire 1 - B1 $end
+$var wire 1 . C1 $end
+$var wire 1 / D1 $end
+$var wire 1 0 VGND $end
+$var wire 1 1 VNB $end
+$var wire 1 2 VPB $end
+$var wire 1 3 VPWR $end
+$var wire 1 4 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a2111o_4 $end
+$var wire 1 5 A1 $end
+$var wire 1 6 A2 $end
+$var wire 1 7 B1 $end
+$var wire 1 8 C1 $end
+$var wire 1 9 D1 $end
+$var wire 1 : VGND $end
+$var wire 1 ; VNB $end
+$var wire 1 < VPB $end
+$var wire 1 = VPWR $end
+$var wire 1 > X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a2111oi_0 $end
+$var wire 1 ? A1 $end
+$var wire 1 @ A2 $end
+$var wire 1 A B1 $end
+$var wire 1 B C1 $end
+$var wire 1 C D1 $end
+$var wire 1 D VGND $end
+$var wire 1 E VNB $end
+$var wire 1 F VPB $end
+$var wire 1 G VPWR $end
+$var wire 1 H Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a2111oi_1 $end
+$var wire 1 I A1 $end
+$var wire 1 J A2 $end
+$var wire 1 K B1 $end
+$var wire 1 L C1 $end
+$var wire 1 M D1 $end
+$var wire 1 N VGND $end
+$var wire 1 O VNB $end
+$var wire 1 P VPB $end
+$var wire 1 Q VPWR $end
+$var wire 1 R Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a2111oi_2 $end
+$var wire 1 S A1 $end
+$var wire 1 T A2 $end
+$var wire 1 U B1 $end
+$var wire 1 V C1 $end
+$var wire 1 W D1 $end
+$var wire 1 X VGND $end
+$var wire 1 Y VNB $end
+$var wire 1 Z VPB $end
+$var wire 1 [ VPWR $end
+$var wire 1 \ Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a2111oi_4 $end
+$var wire 1 ] A1 $end
+$var wire 1 ^ A2 $end
+$var wire 1 _ B1 $end
+$var wire 1 ` C1 $end
+$var wire 1 a D1 $end
+$var wire 1 b VGND $end
+$var wire 1 c VNB $end
+$var wire 1 d VPB $end
+$var wire 1 e VPWR $end
+$var wire 1 f Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a211o_1 $end
+$var wire 1 g A1 $end
+$var wire 1 h A2 $end
+$var wire 1 i B1 $end
+$var wire 1 j C1 $end
+$var wire 1 k VGND $end
+$var wire 1 l VNB $end
+$var wire 1 m VPB $end
+$var wire 1 n VPWR $end
+$var wire 1 o X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a211o_2 $end
+$var wire 1 p A1 $end
+$var wire 1 q A2 $end
+$var wire 1 r B1 $end
+$var wire 1 s C1 $end
+$var wire 1 t VGND $end
+$var wire 1 u VNB $end
+$var wire 1 v VPB $end
+$var wire 1 w VPWR $end
+$var wire 1 x X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a211o_4 $end
+$var wire 1 y A1 $end
+$var wire 1 z A2 $end
+$var wire 1 { B1 $end
+$var wire 1 | C1 $end
+$var wire 1 } VGND $end
+$var wire 1 ~ VNB $end
+$var wire 1 !" VPB $end
+$var wire 1 "" VPWR $end
+$var wire 1 #" X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a211oi_1 $end
+$var wire 1 $" A1 $end
+$var wire 1 %" A2 $end
+$var wire 1 &" B1 $end
+$var wire 1 '" C1 $end
+$var wire 1 (" VGND $end
+$var wire 1 )" VNB $end
+$var wire 1 *" VPB $end
+$var wire 1 +" VPWR $end
+$var wire 1 ," Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a211oi_2 $end
+$var wire 1 -" A1 $end
+$var wire 1 ." A2 $end
+$var wire 1 /" B1 $end
+$var wire 1 0" C1 $end
+$var wire 1 1" VGND $end
+$var wire 1 2" VNB $end
+$var wire 1 3" VPB $end
+$var wire 1 4" VPWR $end
+$var wire 1 5" Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a211oi_4 $end
+$var wire 1 6" A1 $end
+$var wire 1 7" A2 $end
+$var wire 1 8" B1 $end
+$var wire 1 9" C1 $end
+$var wire 1 :" VGND $end
+$var wire 1 ;" VNB $end
+$var wire 1 <" VPB $end
+$var wire 1 =" VPWR $end
+$var wire 1 >" Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a21bo_1 $end
+$var wire 1 ?" A1 $end
+$var wire 1 @" A2 $end
+$var wire 1 A" B1_N $end
+$var wire 1 B" VGND $end
+$var wire 1 C" VNB $end
+$var wire 1 D" VPB $end
+$var wire 1 E" VPWR $end
+$var wire 1 F" X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a21bo_2 $end
+$var wire 1 G" A1 $end
+$var wire 1 H" A2 $end
+$var wire 1 I" B1_N $end
+$var wire 1 J" VGND $end
+$var wire 1 K" VNB $end
+$var wire 1 L" VPB $end
+$var wire 1 M" VPWR $end
+$var wire 1 N" X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a21bo_4 $end
+$var wire 1 O" A1 $end
+$var wire 1 P" A2 $end
+$var wire 1 Q" B1_N $end
+$var wire 1 R" VGND $end
+$var wire 1 S" VNB $end
+$var wire 1 T" VPB $end
+$var wire 1 U" VPWR $end
+$var wire 1 V" X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a21boi_0 $end
+$var wire 1 W" A1 $end
+$var wire 1 X" A2 $end
+$var wire 1 Y" B1_N $end
+$var wire 1 Z" VGND $end
+$var wire 1 [" VNB $end
+$var wire 1 \" VPB $end
+$var wire 1 ]" VPWR $end
+$var wire 1 ^" Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a21boi_1 $end
+$var wire 1 _" A1 $end
+$var wire 1 `" A2 $end
+$var wire 1 a" B1_N $end
+$var wire 1 b" VGND $end
+$var wire 1 c" VNB $end
+$var wire 1 d" VPB $end
+$var wire 1 e" VPWR $end
+$var wire 1 f" Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a21boi_2 $end
+$var wire 1 g" A1 $end
+$var wire 1 h" A2 $end
+$var wire 1 i" B1_N $end
+$var wire 1 j" VGND $end
+$var wire 1 k" VNB $end
+$var wire 1 l" VPB $end
+$var wire 1 m" VPWR $end
+$var wire 1 n" Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a21boi_4 $end
+$var wire 1 o" A1 $end
+$var wire 1 p" A2 $end
+$var wire 1 q" B1_N $end
+$var wire 1 r" VGND $end
+$var wire 1 s" VNB $end
+$var wire 1 t" VPB $end
+$var wire 1 u" VPWR $end
+$var wire 1 v" Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a21o_1 $end
+$var wire 1 w" A1 $end
+$var wire 1 x" A2 $end
+$var wire 1 y" B1 $end
+$var wire 1 z" VGND $end
+$var wire 1 {" VNB $end
+$var wire 1 |" VPB $end
+$var wire 1 }" VPWR $end
+$var wire 1 ~" X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a21o_2 $end
+$var wire 1 !# A1 $end
+$var wire 1 "# A2 $end
+$var wire 1 ## B1 $end
+$var wire 1 $# VGND $end
+$var wire 1 %# VNB $end
+$var wire 1 &# VPB $end
+$var wire 1 '# VPWR $end
+$var wire 1 (# X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a21o_4 $end
+$var wire 1 )# A1 $end
+$var wire 1 *# A2 $end
+$var wire 1 +# B1 $end
+$var wire 1 ,# VGND $end
+$var wire 1 -# VNB $end
+$var wire 1 .# VPB $end
+$var wire 1 /# VPWR $end
+$var wire 1 0# X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a21oi_1 $end
+$var wire 1 1# A1 $end
+$var wire 1 2# A2 $end
+$var wire 1 3# B1 $end
+$var wire 1 4# VGND $end
+$var wire 1 5# VNB $end
+$var wire 1 6# VPB $end
+$var wire 1 7# VPWR $end
+$var wire 1 8# Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a21oi_2 $end
+$var wire 1 9# A1 $end
+$var wire 1 :# A2 $end
+$var wire 1 ;# B1 $end
+$var wire 1 <# VGND $end
+$var wire 1 =# VNB $end
+$var wire 1 ># VPB $end
+$var wire 1 ?# VPWR $end
+$var wire 1 @# Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a21oi_4 $end
+$var wire 1 A# A1 $end
+$var wire 1 B# A2 $end
+$var wire 1 C# B1 $end
+$var wire 1 D# VGND $end
+$var wire 1 E# VNB $end
+$var wire 1 F# VPB $end
+$var wire 1 G# VPWR $end
+$var wire 1 H# Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a221o_1 $end
+$var wire 1 I# A1 $end
+$var wire 1 J# A2 $end
+$var wire 1 K# B1 $end
+$var wire 1 L# B2 $end
+$var wire 1 M# C1 $end
+$var wire 1 N# VGND $end
+$var wire 1 O# VNB $end
+$var wire 1 P# VPB $end
+$var wire 1 Q# VPWR $end
+$var wire 1 R# X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a221o_2 $end
+$var wire 1 S# A1 $end
+$var wire 1 T# A2 $end
+$var wire 1 U# B1 $end
+$var wire 1 V# B2 $end
+$var wire 1 W# C1 $end
+$var wire 1 X# VGND $end
+$var wire 1 Y# VNB $end
+$var wire 1 Z# VPB $end
+$var wire 1 [# VPWR $end
+$var wire 1 \# X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a221o_4 $end
+$var wire 1 ]# A1 $end
+$var wire 1 ^# A2 $end
+$var wire 1 _# B1 $end
+$var wire 1 `# B2 $end
+$var wire 1 a# C1 $end
+$var wire 1 b# VGND $end
+$var wire 1 c# VNB $end
+$var wire 1 d# VPB $end
+$var wire 1 e# VPWR $end
+$var wire 1 f# X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a221oi_1 $end
+$var wire 1 g# A1 $end
+$var wire 1 h# A2 $end
+$var wire 1 i# B1 $end
+$var wire 1 j# B2 $end
+$var wire 1 k# C1 $end
+$var wire 1 l# VGND $end
+$var wire 1 m# VNB $end
+$var wire 1 n# VPB $end
+$var wire 1 o# VPWR $end
+$var wire 1 p# Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a221oi_2 $end
+$var wire 1 q# A1 $end
+$var wire 1 r# A2 $end
+$var wire 1 s# B1 $end
+$var wire 1 t# B2 $end
+$var wire 1 u# C1 $end
+$var wire 1 v# VGND $end
+$var wire 1 w# VNB $end
+$var wire 1 x# VPB $end
+$var wire 1 y# VPWR $end
+$var wire 1 z# Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a221oi_4 $end
+$var wire 1 {# A1 $end
+$var wire 1 |# A2 $end
+$var wire 1 }# B1 $end
+$var wire 1 ~# B2 $end
+$var wire 1 !$ C1 $end
+$var wire 1 "$ VGND $end
+$var wire 1 #$ VNB $end
+$var wire 1 $$ VPB $end
+$var wire 1 %$ VPWR $end
+$var wire 1 &$ Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a222oi_1 $end
+$var wire 1 '$ A1 $end
+$var wire 1 ($ A2 $end
+$var wire 1 )$ B1 $end
+$var wire 1 *$ B2 $end
+$var wire 1 +$ C1 $end
+$var wire 1 ,$ C2 $end
+$var wire 1 -$ VGND $end
+$var wire 1 .$ VNB $end
+$var wire 1 /$ VPB $end
+$var wire 1 0$ VPWR $end
+$var wire 1 1$ Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a22o_1 $end
+$var wire 1 2$ A1 $end
+$var wire 1 3$ A2 $end
+$var wire 1 4$ B1 $end
+$var wire 1 5$ B2 $end
+$var wire 1 6$ VGND $end
+$var wire 1 7$ VNB $end
+$var wire 1 8$ VPB $end
+$var wire 1 9$ VPWR $end
+$var wire 1 :$ X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a22o_2 $end
+$var wire 1 ;$ A1 $end
+$var wire 1 <$ A2 $end
+$var wire 1 =$ B1 $end
+$var wire 1 >$ B2 $end
+$var wire 1 ?$ VGND $end
+$var wire 1 @$ VNB $end
+$var wire 1 A$ VPB $end
+$var wire 1 B$ VPWR $end
+$var wire 1 C$ X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a22o_4 $end
+$var wire 1 D$ A1 $end
+$var wire 1 E$ A2 $end
+$var wire 1 F$ B1 $end
+$var wire 1 G$ B2 $end
+$var wire 1 H$ VGND $end
+$var wire 1 I$ VNB $end
+$var wire 1 J$ VPB $end
+$var wire 1 K$ VPWR $end
+$var wire 1 L$ X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a22oi_1 $end
+$var wire 1 M$ A1 $end
+$var wire 1 N$ A2 $end
+$var wire 1 O$ B1 $end
+$var wire 1 P$ B2 $end
+$var wire 1 Q$ VGND $end
+$var wire 1 R$ VNB $end
+$var wire 1 S$ VPB $end
+$var wire 1 T$ VPWR $end
+$var wire 1 U$ Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a22oi_2 $end
+$var wire 1 V$ A1 $end
+$var wire 1 W$ A2 $end
+$var wire 1 X$ B1 $end
+$var wire 1 Y$ B2 $end
+$var wire 1 Z$ VGND $end
+$var wire 1 [$ VNB $end
+$var wire 1 \$ VPB $end
+$var wire 1 ]$ VPWR $end
+$var wire 1 ^$ Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a22oi_4 $end
+$var wire 1 _$ A1 $end
+$var wire 1 `$ A2 $end
+$var wire 1 a$ B1 $end
+$var wire 1 b$ B2 $end
+$var wire 1 c$ VGND $end
+$var wire 1 d$ VNB $end
+$var wire 1 e$ VPB $end
+$var wire 1 f$ VPWR $end
+$var wire 1 g$ Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a2bb2o_1 $end
+$var wire 1 h$ A1_N $end
+$var wire 1 i$ A2_N $end
+$var wire 1 j$ B1 $end
+$var wire 1 k$ B2 $end
+$var wire 1 l$ VGND $end
+$var wire 1 m$ VNB $end
+$var wire 1 n$ VPB $end
+$var wire 1 o$ VPWR $end
+$var wire 1 p$ X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a2bb2o_2 $end
+$var wire 1 q$ A1_N $end
+$var wire 1 r$ A2_N $end
+$var wire 1 s$ B1 $end
+$var wire 1 t$ B2 $end
+$var wire 1 u$ VGND $end
+$var wire 1 v$ VNB $end
+$var wire 1 w$ VPB $end
+$var wire 1 x$ VPWR $end
+$var wire 1 y$ X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a2bb2o_4 $end
+$var wire 1 z$ A1_N $end
+$var wire 1 {$ A2_N $end
+$var wire 1 |$ B1 $end
+$var wire 1 }$ B2 $end
+$var wire 1 ~$ VGND $end
+$var wire 1 !% VNB $end
+$var wire 1 "% VPB $end
+$var wire 1 #% VPWR $end
+$var wire 1 $% X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a2bb2oi_1 $end
+$var wire 1 %% A1_N $end
+$var wire 1 &% A2_N $end
+$var wire 1 '% B1 $end
+$var wire 1 (% B2 $end
+$var wire 1 )% VGND $end
+$var wire 1 *% VNB $end
+$var wire 1 +% VPB $end
+$var wire 1 ,% VPWR $end
+$var wire 1 -% Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a2bb2oi_2 $end
+$var wire 1 .% A1_N $end
+$var wire 1 /% A2_N $end
+$var wire 1 0% B1 $end
+$var wire 1 1% B2 $end
+$var wire 1 2% VGND $end
+$var wire 1 3% VNB $end
+$var wire 1 4% VPB $end
+$var wire 1 5% VPWR $end
+$var wire 1 6% Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a2bb2oi_4 $end
+$var wire 1 7% A1_N $end
+$var wire 1 8% A2_N $end
+$var wire 1 9% B1 $end
+$var wire 1 :% B2 $end
+$var wire 1 ;% VGND $end
+$var wire 1 <% VNB $end
+$var wire 1 =% VPB $end
+$var wire 1 >% VPWR $end
+$var wire 1 ?% Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a311o_1 $end
+$var wire 1 @% A1 $end
+$var wire 1 A% A2 $end
+$var wire 1 B% A3 $end
+$var wire 1 C% B1 $end
+$var wire 1 D% C1 $end
+$var wire 1 E% VGND $end
+$var wire 1 F% VNB $end
+$var wire 1 G% VPB $end
+$var wire 1 H% VPWR $end
+$var wire 1 I% X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a311o_2 $end
+$var wire 1 J% A1 $end
+$var wire 1 K% A2 $end
+$var wire 1 L% A3 $end
+$var wire 1 M% B1 $end
+$var wire 1 N% C1 $end
+$var wire 1 O% VGND $end
+$var wire 1 P% VNB $end
+$var wire 1 Q% VPB $end
+$var wire 1 R% VPWR $end
+$var wire 1 S% X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a311o_4 $end
+$var wire 1 T% A1 $end
+$var wire 1 U% A2 $end
+$var wire 1 V% A3 $end
+$var wire 1 W% B1 $end
+$var wire 1 X% C1 $end
+$var wire 1 Y% VGND $end
+$var wire 1 Z% VNB $end
+$var wire 1 [% VPB $end
+$var wire 1 \% VPWR $end
+$var wire 1 ]% X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a311oi_1 $end
+$var wire 1 ^% A1 $end
+$var wire 1 _% A2 $end
+$var wire 1 `% A3 $end
+$var wire 1 a% B1 $end
+$var wire 1 b% C1 $end
+$var wire 1 c% VGND $end
+$var wire 1 d% VNB $end
+$var wire 1 e% VPB $end
+$var wire 1 f% VPWR $end
+$var wire 1 g% Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a311oi_2 $end
+$var wire 1 h% A1 $end
+$var wire 1 i% A2 $end
+$var wire 1 j% A3 $end
+$var wire 1 k% B1 $end
+$var wire 1 l% C1 $end
+$var wire 1 m% VGND $end
+$var wire 1 n% VNB $end
+$var wire 1 o% VPB $end
+$var wire 1 p% VPWR $end
+$var wire 1 q% Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a311oi_4 $end
+$var wire 1 r% A1 $end
+$var wire 1 s% A2 $end
+$var wire 1 t% A3 $end
+$var wire 1 u% B1 $end
+$var wire 1 v% C1 $end
+$var wire 1 w% VGND $end
+$var wire 1 x% VNB $end
+$var wire 1 y% VPB $end
+$var wire 1 z% VPWR $end
+$var wire 1 {% Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a31o_1 $end
+$var wire 1 |% A1 $end
+$var wire 1 }% A2 $end
+$var wire 1 ~% A3 $end
+$var wire 1 !& B1 $end
+$var wire 1 "& VGND $end
+$var wire 1 #& VNB $end
+$var wire 1 $& VPB $end
+$var wire 1 %& VPWR $end
+$var wire 1 && X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a31o_2 $end
+$var wire 1 '& A1 $end
+$var wire 1 (& A2 $end
+$var wire 1 )& A3 $end
+$var wire 1 *& B1 $end
+$var wire 1 +& VGND $end
+$var wire 1 ,& VNB $end
+$var wire 1 -& VPB $end
+$var wire 1 .& VPWR $end
+$var wire 1 /& X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a31o_4 $end
+$var wire 1 0& A1 $end
+$var wire 1 1& A2 $end
+$var wire 1 2& A3 $end
+$var wire 1 3& B1 $end
+$var wire 1 4& VGND $end
+$var wire 1 5& VNB $end
+$var wire 1 6& VPB $end
+$var wire 1 7& VPWR $end
+$var wire 1 8& X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a31oi_1 $end
+$var wire 1 9& A1 $end
+$var wire 1 :& A2 $end
+$var wire 1 ;& A3 $end
+$var wire 1 <& B1 $end
+$var wire 1 =& VGND $end
+$var wire 1 >& VNB $end
+$var wire 1 ?& VPB $end
+$var wire 1 @& VPWR $end
+$var wire 1 A& Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a31oi_2 $end
+$var wire 1 B& A1 $end
+$var wire 1 C& A2 $end
+$var wire 1 D& A3 $end
+$var wire 1 E& B1 $end
+$var wire 1 F& VGND $end
+$var wire 1 G& VNB $end
+$var wire 1 H& VPB $end
+$var wire 1 I& VPWR $end
+$var wire 1 J& Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a31oi_4 $end
+$var wire 1 K& A1 $end
+$var wire 1 L& A2 $end
+$var wire 1 M& A3 $end
+$var wire 1 N& B1 $end
+$var wire 1 O& VGND $end
+$var wire 1 P& VNB $end
+$var wire 1 Q& VPB $end
+$var wire 1 R& VPWR $end
+$var wire 1 S& Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a32o_1 $end
+$var wire 1 T& A1 $end
+$var wire 1 U& A2 $end
+$var wire 1 V& A3 $end
+$var wire 1 W& B1 $end
+$var wire 1 X& B2 $end
+$var wire 1 Y& VGND $end
+$var wire 1 Z& VNB $end
+$var wire 1 [& VPB $end
+$var wire 1 \& VPWR $end
+$var wire 1 ]& X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a32o_2 $end
+$var wire 1 ^& A1 $end
+$var wire 1 _& A2 $end
+$var wire 1 `& A3 $end
+$var wire 1 a& B1 $end
+$var wire 1 b& B2 $end
+$var wire 1 c& VGND $end
+$var wire 1 d& VNB $end
+$var wire 1 e& VPB $end
+$var wire 1 f& VPWR $end
+$var wire 1 g& X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a32o_4 $end
+$var wire 1 h& A1 $end
+$var wire 1 i& A2 $end
+$var wire 1 j& A3 $end
+$var wire 1 k& B1 $end
+$var wire 1 l& B2 $end
+$var wire 1 m& VGND $end
+$var wire 1 n& VNB $end
+$var wire 1 o& VPB $end
+$var wire 1 p& VPWR $end
+$var wire 1 q& X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a32oi_1 $end
+$var wire 1 r& A1 $end
+$var wire 1 s& A2 $end
+$var wire 1 t& A3 $end
+$var wire 1 u& B1 $end
+$var wire 1 v& B2 $end
+$var wire 1 w& VGND $end
+$var wire 1 x& VNB $end
+$var wire 1 y& VPB $end
+$var wire 1 z& VPWR $end
+$var wire 1 {& Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a32oi_2 $end
+$var wire 1 |& A1 $end
+$var wire 1 }& A2 $end
+$var wire 1 ~& A3 $end
+$var wire 1 !' B1 $end
+$var wire 1 "' B2 $end
+$var wire 1 #' VGND $end
+$var wire 1 $' VNB $end
+$var wire 1 %' VPB $end
+$var wire 1 &' VPWR $end
+$var wire 1 '' Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a32oi_4 $end
+$var wire 1 (' A1 $end
+$var wire 1 )' A2 $end
+$var wire 1 *' A3 $end
+$var wire 1 +' B1 $end
+$var wire 1 ,' B2 $end
+$var wire 1 -' VGND $end
+$var wire 1 .' VNB $end
+$var wire 1 /' VPB $end
+$var wire 1 0' VPWR $end
+$var wire 1 1' Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a41o_1 $end
+$var wire 1 2' A1 $end
+$var wire 1 3' A2 $end
+$var wire 1 4' A3 $end
+$var wire 1 5' A4 $end
+$var wire 1 6' B1 $end
+$var wire 1 7' VGND $end
+$var wire 1 8' VNB $end
+$var wire 1 9' VPB $end
+$var wire 1 :' VPWR $end
+$var wire 1 ;' X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a41o_2 $end
+$var wire 1 <' A1 $end
+$var wire 1 =' A2 $end
+$var wire 1 >' A3 $end
+$var wire 1 ?' A4 $end
+$var wire 1 @' B1 $end
+$var wire 1 A' VGND $end
+$var wire 1 B' VNB $end
+$var wire 1 C' VPB $end
+$var wire 1 D' VPWR $end
+$var wire 1 E' X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a41o_4 $end
+$var wire 1 F' A1 $end
+$var wire 1 G' A2 $end
+$var wire 1 H' A3 $end
+$var wire 1 I' A4 $end
+$var wire 1 J' B1 $end
+$var wire 1 K' VGND $end
+$var wire 1 L' VNB $end
+$var wire 1 M' VPB $end
+$var wire 1 N' VPWR $end
+$var wire 1 O' X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a41oi_1 $end
+$var wire 1 P' A1 $end
+$var wire 1 Q' A2 $end
+$var wire 1 R' A3 $end
+$var wire 1 S' A4 $end
+$var wire 1 T' B1 $end
+$var wire 1 U' VGND $end
+$var wire 1 V' VNB $end
+$var wire 1 W' VPB $end
+$var wire 1 X' VPWR $end
+$var wire 1 Y' Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a41oi_2 $end
+$var wire 1 Z' A1 $end
+$var wire 1 [' A2 $end
+$var wire 1 \' A3 $end
+$var wire 1 ]' A4 $end
+$var wire 1 ^' B1 $end
+$var wire 1 _' VGND $end
+$var wire 1 `' VNB $end
+$var wire 1 a' VPB $end
+$var wire 1 b' VPWR $end
+$var wire 1 c' Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__a41oi_4 $end
+$var wire 1 d' A1 $end
+$var wire 1 e' A2 $end
+$var wire 1 f' A3 $end
+$var wire 1 g' A4 $end
+$var wire 1 h' B1 $end
+$var wire 1 i' VGND $end
+$var wire 1 j' VNB $end
+$var wire 1 k' VPB $end
+$var wire 1 l' VPWR $end
+$var wire 1 m' Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__and2_0 $end
+$var wire 1 n' A $end
+$var wire 1 o' B $end
+$var wire 1 p' VGND $end
+$var wire 1 q' VNB $end
+$var wire 1 r' VPB $end
+$var wire 1 s' VPWR $end
+$var wire 1 t' X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__and2_1 $end
+$var wire 1 u' A $end
+$var wire 1 v' B $end
+$var wire 1 w' VGND $end
+$var wire 1 x' VNB $end
+$var wire 1 y' VPB $end
+$var wire 1 z' VPWR $end
+$var wire 1 {' X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__and2_2 $end
+$var wire 1 |' A $end
+$var wire 1 }' B $end
+$var wire 1 ~' VGND $end
+$var wire 1 !( VNB $end
+$var wire 1 "( VPB $end
+$var wire 1 #( VPWR $end
+$var wire 1 $( X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__and2_4 $end
+$var wire 1 %( A $end
+$var wire 1 &( B $end
+$var wire 1 '( VGND $end
+$var wire 1 (( VNB $end
+$var wire 1 )( VPB $end
+$var wire 1 *( VPWR $end
+$var wire 1 +( X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__and2b_1 $end
+$var wire 1 ,( A_N $end
+$var wire 1 -( B $end
+$var wire 1 .( VGND $end
+$var wire 1 /( VNB $end
+$var wire 1 0( VPB $end
+$var wire 1 1( VPWR $end
+$var wire 1 2( X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__and2b_2 $end
+$var wire 1 3( A_N $end
+$var wire 1 4( B $end
+$var wire 1 5( VGND $end
+$var wire 1 6( VNB $end
+$var wire 1 7( VPB $end
+$var wire 1 8( VPWR $end
+$var wire 1 9( X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__and2b_4 $end
+$var wire 1 :( A_N $end
+$var wire 1 ;( B $end
+$var wire 1 <( VGND $end
+$var wire 1 =( VNB $end
+$var wire 1 >( VPB $end
+$var wire 1 ?( VPWR $end
+$var wire 1 @( X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__and3_1 $end
+$var wire 1 A( A $end
+$var wire 1 B( B $end
+$var wire 1 C( C $end
+$var wire 1 D( VGND $end
+$var wire 1 E( VNB $end
+$var wire 1 F( VPB $end
+$var wire 1 G( VPWR $end
+$var wire 1 H( X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__and3_2 $end
+$var wire 1 I( A $end
+$var wire 1 J( B $end
+$var wire 1 K( C $end
+$var wire 1 L( VGND $end
+$var wire 1 M( VNB $end
+$var wire 1 N( VPB $end
+$var wire 1 O( VPWR $end
+$var wire 1 P( X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__and3_4 $end
+$var wire 1 Q( A $end
+$var wire 1 R( B $end
+$var wire 1 S( C $end
+$var wire 1 T( VGND $end
+$var wire 1 U( VNB $end
+$var wire 1 V( VPB $end
+$var wire 1 W( VPWR $end
+$var wire 1 X( X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__and3b_1 $end
+$var wire 1 Y( A_N $end
+$var wire 1 Z( B $end
+$var wire 1 [( C $end
+$var wire 1 \( VGND $end
+$var wire 1 ]( VNB $end
+$var wire 1 ^( VPB $end
+$var wire 1 _( VPWR $end
+$var wire 1 `( X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__and3b_2 $end
+$var wire 1 a( A_N $end
+$var wire 1 b( B $end
+$var wire 1 c( C $end
+$var wire 1 d( VGND $end
+$var wire 1 e( VNB $end
+$var wire 1 f( VPB $end
+$var wire 1 g( VPWR $end
+$var wire 1 h( X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__and3b_4 $end
+$var wire 1 i( A_N $end
+$var wire 1 j( B $end
+$var wire 1 k( C $end
+$var wire 1 l( VGND $end
+$var wire 1 m( VNB $end
+$var wire 1 n( VPB $end
+$var wire 1 o( VPWR $end
+$var wire 1 p( X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__and4_1 $end
+$var wire 1 q( A $end
+$var wire 1 r( B $end
+$var wire 1 s( C $end
+$var wire 1 t( D $end
+$var wire 1 u( VGND $end
+$var wire 1 v( VNB $end
+$var wire 1 w( VPB $end
+$var wire 1 x( VPWR $end
+$var wire 1 y( X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__and4_2 $end
+$var wire 1 z( A $end
+$var wire 1 {( B $end
+$var wire 1 |( C $end
+$var wire 1 }( D $end
+$var wire 1 ~( VGND $end
+$var wire 1 !) VNB $end
+$var wire 1 ") VPB $end
+$var wire 1 #) VPWR $end
+$var wire 1 $) X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__and4_4 $end
+$var wire 1 %) A $end
+$var wire 1 &) B $end
+$var wire 1 ') C $end
+$var wire 1 () D $end
+$var wire 1 )) VGND $end
+$var wire 1 *) VNB $end
+$var wire 1 +) VPB $end
+$var wire 1 ,) VPWR $end
+$var wire 1 -) X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__and4b_1 $end
+$var wire 1 .) A_N $end
+$var wire 1 /) B $end
+$var wire 1 0) C $end
+$var wire 1 1) D $end
+$var wire 1 2) VGND $end
+$var wire 1 3) VNB $end
+$var wire 1 4) VPB $end
+$var wire 1 5) VPWR $end
+$var wire 1 6) X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__and4b_2 $end
+$var wire 1 7) A_N $end
+$var wire 1 8) B $end
+$var wire 1 9) C $end
+$var wire 1 :) D $end
+$var wire 1 ;) VGND $end
+$var wire 1 <) VNB $end
+$var wire 1 =) VPB $end
+$var wire 1 >) VPWR $end
+$var wire 1 ?) X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__and4b_4 $end
+$var wire 1 @) A_N $end
+$var wire 1 A) B $end
+$var wire 1 B) C $end
+$var wire 1 C) D $end
+$var wire 1 D) VGND $end
+$var wire 1 E) VNB $end
+$var wire 1 F) VPB $end
+$var wire 1 G) VPWR $end
+$var wire 1 H) X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__and4bb_1 $end
+$var wire 1 I) A_N $end
+$var wire 1 J) B_N $end
+$var wire 1 K) C $end
+$var wire 1 L) D $end
+$var wire 1 M) VGND $end
+$var wire 1 N) VNB $end
+$var wire 1 O) VPB $end
+$var wire 1 P) VPWR $end
+$var wire 1 Q) X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__and4bb_2 $end
+$var wire 1 R) A_N $end
+$var wire 1 S) B_N $end
+$var wire 1 T) C $end
+$var wire 1 U) D $end
+$var wire 1 V) VGND $end
+$var wire 1 W) VNB $end
+$var wire 1 X) VPB $end
+$var wire 1 Y) VPWR $end
+$var wire 1 Z) X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__and4bb_4 $end
+$var wire 1 [) A_N $end
+$var wire 1 \) B_N $end
+$var wire 1 ]) C $end
+$var wire 1 ^) D $end
+$var wire 1 _) VGND $end
+$var wire 1 `) VNB $end
+$var wire 1 a) VPB $end
+$var wire 1 b) VPWR $end
+$var wire 1 c) X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__buf_1 $end
+$var wire 1 d) A $end
+$var wire 1 e) VGND $end
+$var wire 1 f) VNB $end
+$var wire 1 g) VPB $end
+$var wire 1 h) VPWR $end
+$var wire 1 i) X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__buf_12 $end
+$var wire 1 j) A $end
+$var wire 1 k) VGND $end
+$var wire 1 l) VNB $end
+$var wire 1 m) VPB $end
+$var wire 1 n) VPWR $end
+$var wire 1 o) X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__buf_16 $end
+$var wire 1 p) A $end
+$var wire 1 q) VGND $end
+$var wire 1 r) VNB $end
+$var wire 1 s) VPB $end
+$var wire 1 t) VPWR $end
+$var wire 1 u) X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__buf_2 $end
+$var wire 1 v) A $end
+$var wire 1 w) VGND $end
+$var wire 1 x) VNB $end
+$var wire 1 y) VPB $end
+$var wire 1 z) VPWR $end
+$var wire 1 {) X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__buf_4 $end
+$var wire 1 |) A $end
+$var wire 1 }) VGND $end
+$var wire 1 ~) VNB $end
+$var wire 1 !* VPB $end
+$var wire 1 "* VPWR $end
+$var wire 1 #* X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__buf_6 $end
+$var wire 1 $* A $end
+$var wire 1 %* VGND $end
+$var wire 1 &* VNB $end
+$var wire 1 '* VPB $end
+$var wire 1 (* VPWR $end
+$var wire 1 )* X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__buf_8 $end
+$var wire 1 ** A $end
+$var wire 1 +* VGND $end
+$var wire 1 ,* VNB $end
+$var wire 1 -* VPB $end
+$var wire 1 .* VPWR $end
+$var wire 1 /* X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__bufbuf_16 $end
+$var wire 1 0* A $end
+$var wire 1 1* VGND $end
+$var wire 1 2* VNB $end
+$var wire 1 3* VPB $end
+$var wire 1 4* VPWR $end
+$var wire 1 5* X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__bufbuf_8 $end
+$var wire 1 6* A $end
+$var wire 1 7* VGND $end
+$var wire 1 8* VNB $end
+$var wire 1 9* VPB $end
+$var wire 1 :* VPWR $end
+$var wire 1 ;* X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__bufinv_16 $end
+$var wire 1 <* A $end
+$var wire 1 =* VGND $end
+$var wire 1 >* VNB $end
+$var wire 1 ?* VPB $end
+$var wire 1 @* VPWR $end
+$var wire 1 A* Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__bufinv_8 $end
+$var wire 1 B* A $end
+$var wire 1 C* VGND $end
+$var wire 1 D* VNB $end
+$var wire 1 E* VPB $end
+$var wire 1 F* VPWR $end
+$var wire 1 G* Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__clkbuf_1 $end
+$var wire 1 H* A $end
+$var wire 1 I* VGND $end
+$var wire 1 J* VNB $end
+$var wire 1 K* VPB $end
+$var wire 1 L* VPWR $end
+$var wire 1 M* X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__clkbuf_16 $end
+$var wire 1 N* A $end
+$var wire 1 O* VGND $end
+$var wire 1 P* VNB $end
+$var wire 1 Q* VPB $end
+$var wire 1 R* VPWR $end
+$var wire 1 S* X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__clkbuf_2 $end
+$var wire 1 T* A $end
+$var wire 1 U* VGND $end
+$var wire 1 V* VNB $end
+$var wire 1 W* VPB $end
+$var wire 1 X* VPWR $end
+$var wire 1 Y* X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__clkbuf_4 $end
+$var wire 1 Z* A $end
+$var wire 1 [* VGND $end
+$var wire 1 \* VNB $end
+$var wire 1 ]* VPB $end
+$var wire 1 ^* VPWR $end
+$var wire 1 _* X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__clkbuf_8 $end
+$var wire 1 `* A $end
+$var wire 1 a* VGND $end
+$var wire 1 b* VNB $end
+$var wire 1 c* VPB $end
+$var wire 1 d* VPWR $end
+$var wire 1 e* X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__clkdlybuf4s15_1 $end
+$var wire 1 f* A $end
+$var wire 1 g* VGND $end
+$var wire 1 h* VNB $end
+$var wire 1 i* VPB $end
+$var wire 1 j* VPWR $end
+$var wire 1 k* X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__clkdlybuf4s15_2 $end
+$var wire 1 l* A $end
+$var wire 1 m* VGND $end
+$var wire 1 n* VNB $end
+$var wire 1 o* VPB $end
+$var wire 1 p* VPWR $end
+$var wire 1 q* X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__clkdlybuf4s18_1 $end
+$var wire 1 r* A $end
+$var wire 1 s* VGND $end
+$var wire 1 t* VNB $end
+$var wire 1 u* VPB $end
+$var wire 1 v* VPWR $end
+$var wire 1 w* X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__clkdlybuf4s18_2 $end
+$var wire 1 x* A $end
+$var wire 1 y* VGND $end
+$var wire 1 z* VNB $end
+$var wire 1 {* VPB $end
+$var wire 1 |* VPWR $end
+$var wire 1 }* X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__clkdlybuf4s25_1 $end
+$var wire 1 ~* A $end
+$var wire 1 !+ VGND $end
+$var wire 1 "+ VNB $end
+$var wire 1 #+ VPB $end
+$var wire 1 $+ VPWR $end
+$var wire 1 %+ X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__clkdlybuf4s25_2 $end
+$var wire 1 &+ A $end
+$var wire 1 '+ VGND $end
+$var wire 1 (+ VNB $end
+$var wire 1 )+ VPB $end
+$var wire 1 *+ VPWR $end
+$var wire 1 ++ X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__clkdlybuf4s50_1 $end
+$var wire 1 ,+ A $end
+$var wire 1 -+ VGND $end
+$var wire 1 .+ VNB $end
+$var wire 1 /+ VPB $end
+$var wire 1 0+ VPWR $end
+$var wire 1 1+ X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__clkdlybuf4s50_2 $end
+$var wire 1 2+ A $end
+$var wire 1 3+ VGND $end
+$var wire 1 4+ VNB $end
+$var wire 1 5+ VPB $end
+$var wire 1 6+ VPWR $end
+$var wire 1 7+ X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__clkinv_1 $end
+$var wire 1 8+ A $end
+$var wire 1 9+ VGND $end
+$var wire 1 :+ VNB $end
+$var wire 1 ;+ VPB $end
+$var wire 1 <+ VPWR $end
+$var wire 1 =+ Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__clkinv_16 $end
+$var wire 1 >+ A $end
+$var wire 1 ?+ VGND $end
+$var wire 1 @+ VNB $end
+$var wire 1 A+ VPB $end
+$var wire 1 B+ VPWR $end
+$var wire 1 C+ Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__clkinv_2 $end
+$var wire 1 D+ A $end
+$var wire 1 E+ VGND $end
+$var wire 1 F+ VNB $end
+$var wire 1 G+ VPB $end
+$var wire 1 H+ VPWR $end
+$var wire 1 I+ Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__clkinv_4 $end
+$var wire 1 J+ A $end
+$var wire 1 K+ VGND $end
+$var wire 1 L+ VNB $end
+$var wire 1 M+ VPB $end
+$var wire 1 N+ VPWR $end
+$var wire 1 O+ Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__clkinv_8 $end
+$var wire 1 P+ A $end
+$var wire 1 Q+ VGND $end
+$var wire 1 R+ VNB $end
+$var wire 1 S+ VPB $end
+$var wire 1 T+ VPWR $end
+$var wire 1 U+ Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__clkinvlp_2 $end
+$var wire 1 V+ A $end
+$var wire 1 W+ VGND $end
+$var wire 1 X+ VNB $end
+$var wire 1 Y+ VPB $end
+$var wire 1 Z+ VPWR $end
+$var wire 1 [+ Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__clkinvlp_4 $end
+$var wire 1 \+ A $end
+$var wire 1 ]+ VGND $end
+$var wire 1 ^+ VNB $end
+$var wire 1 _+ VPB $end
+$var wire 1 `+ VPWR $end
+$var wire 1 a+ Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__decap_12 $end
+$var wire 1 b+ VGND $end
+$var wire 1 c+ VNB $end
+$var wire 1 d+ VPB $end
+$var wire 1 e+ VPWR $end
+$upscope $end
+$scope module sky130_fd_sc_hd__decap_3 $end
+$var wire 1 f+ VGND $end
+$var wire 1 g+ VNB $end
+$var wire 1 h+ VPB $end
+$var wire 1 i+ VPWR $end
+$upscope $end
+$scope module sky130_fd_sc_hd__decap_4 $end
+$var wire 1 j+ VGND $end
+$var wire 1 k+ VNB $end
+$var wire 1 l+ VPB $end
+$var wire 1 m+ VPWR $end
+$upscope $end
+$scope module sky130_fd_sc_hd__decap_6 $end
+$var wire 1 n+ VGND $end
+$var wire 1 o+ VNB $end
+$var wire 1 p+ VPB $end
+$var wire 1 q+ VPWR $end
+$upscope $end
+$scope module sky130_fd_sc_hd__decap_8 $end
+$var wire 1 r+ VGND $end
+$var wire 1 s+ VNB $end
+$var wire 1 t+ VPB $end
+$var wire 1 u+ VPWR $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dfbbn_1 $end
+$var wire 1 v+ CLK_N $end
+$var wire 1 w+ D $end
+$var wire 1 x+ RESET_B $end
+$var wire 1 y+ SET_B $end
+$var wire 1 z+ VGND $end
+$var wire 1 {+ VNB $end
+$var wire 1 |+ VPB $end
+$var wire 1 }+ VPWR $end
+$var wire 1 ~+ Q_N $end
+$var wire 1 !, Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dfbbn_2 $end
+$var wire 1 ", CLK_N $end
+$var wire 1 #, D $end
+$var wire 1 $, RESET_B $end
+$var wire 1 %, SET_B $end
+$var wire 1 &, VGND $end
+$var wire 1 ', VNB $end
+$var wire 1 (, VPB $end
+$var wire 1 ), VPWR $end
+$var wire 1 *, Q_N $end
+$var wire 1 +, Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dfbbp_1 $end
+$var wire 1 ,, CLK $end
+$var wire 1 -, D $end
+$var wire 1 ., RESET_B $end
+$var wire 1 /, SET_B $end
+$var wire 1 0, VGND $end
+$var wire 1 1, VNB $end
+$var wire 1 2, VPB $end
+$var wire 1 3, VPWR $end
+$var wire 1 4, Q_N $end
+$var wire 1 5, Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dfrbp_1 $end
+$var wire 1 6, CLK $end
+$var wire 1 7, D $end
+$var wire 1 8, RESET_B $end
+$var wire 1 9, VGND $end
+$var wire 1 :, VNB $end
+$var wire 1 ;, VPB $end
+$var wire 1 <, VPWR $end
+$var wire 1 =, Q_N $end
+$var wire 1 >, Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dfrbp_2 $end
+$var wire 1 ?, CLK $end
+$var wire 1 @, D $end
+$var wire 1 A, RESET_B $end
+$var wire 1 B, VGND $end
+$var wire 1 C, VNB $end
+$var wire 1 D, VPB $end
+$var wire 1 E, VPWR $end
+$var wire 1 F, Q_N $end
+$var wire 1 G, Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dfrtn_1 $end
+$var wire 1 H, CLK_N $end
+$var wire 1 I, D $end
+$var wire 1 J, RESET_B $end
+$var wire 1 K, VGND $end
+$var wire 1 L, VNB $end
+$var wire 1 M, VPB $end
+$var wire 1 N, VPWR $end
+$var wire 1 O, Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dfrtp_1 $end
+$var wire 1 P, CLK $end
+$var wire 1 Q, D $end
+$var wire 1 R, RESET_B $end
+$var wire 1 S, VGND $end
+$var wire 1 T, VNB $end
+$var wire 1 U, VPB $end
+$var wire 1 V, VPWR $end
+$var wire 1 W, Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dfrtp_2 $end
+$var wire 1 X, CLK $end
+$var wire 1 Y, D $end
+$var wire 1 Z, RESET_B $end
+$var wire 1 [, VGND $end
+$var wire 1 \, VNB $end
+$var wire 1 ], VPB $end
+$var wire 1 ^, VPWR $end
+$var wire 1 _, Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dfrtp_4 $end
+$var wire 1 `, CLK $end
+$var wire 1 a, D $end
+$var wire 1 b, RESET_B $end
+$var wire 1 c, VGND $end
+$var wire 1 d, VNB $end
+$var wire 1 e, VPB $end
+$var wire 1 f, VPWR $end
+$var wire 1 g, Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dfsbp_1 $end
+$var wire 1 h, CLK $end
+$var wire 1 i, D $end
+$var wire 1 j, SET_B $end
+$var wire 1 k, VGND $end
+$var wire 1 l, VNB $end
+$var wire 1 m, VPB $end
+$var wire 1 n, VPWR $end
+$var wire 1 o, Q_N $end
+$var wire 1 p, Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dfsbp_2 $end
+$var wire 1 q, CLK $end
+$var wire 1 r, D $end
+$var wire 1 s, SET_B $end
+$var wire 1 t, VGND $end
+$var wire 1 u, VNB $end
+$var wire 1 v, VPB $end
+$var wire 1 w, VPWR $end
+$var wire 1 x, Q_N $end
+$var wire 1 y, Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dfstp_1 $end
+$var wire 1 z, CLK $end
+$var wire 1 {, D $end
+$var wire 1 |, SET_B $end
+$var wire 1 }, VGND $end
+$var wire 1 ~, VNB $end
+$var wire 1 !- VPB $end
+$var wire 1 "- VPWR $end
+$var wire 1 #- Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dfstp_2 $end
+$var wire 1 $- CLK $end
+$var wire 1 %- D $end
+$var wire 1 &- SET_B $end
+$var wire 1 '- VGND $end
+$var wire 1 (- VNB $end
+$var wire 1 )- VPB $end
+$var wire 1 *- VPWR $end
+$var wire 1 +- Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dfstp_4 $end
+$var wire 1 ,- CLK $end
+$var wire 1 -- D $end
+$var wire 1 .- SET_B $end
+$var wire 1 /- VGND $end
+$var wire 1 0- VNB $end
+$var wire 1 1- VPB $end
+$var wire 1 2- VPWR $end
+$var wire 1 3- Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dfxbp_1 $end
+$var wire 1 4- CLK $end
+$var wire 1 5- D $end
+$var wire 1 6- VGND $end
+$var wire 1 7- VNB $end
+$var wire 1 8- VPB $end
+$var wire 1 9- VPWR $end
+$var wire 1 :- Q_N $end
+$var wire 1 ;- Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dfxbp_2 $end
+$var wire 1 <- CLK $end
+$var wire 1 =- D $end
+$var wire 1 >- VGND $end
+$var wire 1 ?- VNB $end
+$var wire 1 @- VPB $end
+$var wire 1 A- VPWR $end
+$var wire 1 B- Q_N $end
+$var wire 1 C- Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dfxtp_1 $end
+$var wire 1 D- CLK $end
+$var wire 1 E- D $end
+$var wire 1 F- VGND $end
+$var wire 1 G- VNB $end
+$var wire 1 H- VPB $end
+$var wire 1 I- VPWR $end
+$var wire 1 J- Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dfxtp_2 $end
+$var wire 1 K- CLK $end
+$var wire 1 L- D $end
+$var wire 1 M- VGND $end
+$var wire 1 N- VNB $end
+$var wire 1 O- VPB $end
+$var wire 1 P- VPWR $end
+$var wire 1 Q- Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dfxtp_4 $end
+$var wire 1 R- CLK $end
+$var wire 1 S- D $end
+$var wire 1 T- VGND $end
+$var wire 1 U- VNB $end
+$var wire 1 V- VPB $end
+$var wire 1 W- VPWR $end
+$var wire 1 X- Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__diode_2 $end
+$var wire 1 Y- DIODE $end
+$var wire 1 Z- VGND $end
+$var wire 1 [- VNB $end
+$var wire 1 \- VPB $end
+$var wire 1 ]- VPWR $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dlclkp_1 $end
+$var wire 1 ^- CLK $end
+$var wire 1 _- GATE $end
+$var wire 1 `- VGND $end
+$var wire 1 a- VNB $end
+$var wire 1 b- VPB $end
+$var wire 1 c- VPWR $end
+$var wire 1 d- GCLK $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dlclkp_2 $end
+$var wire 1 e- CLK $end
+$var wire 1 f- GATE $end
+$var wire 1 g- VGND $end
+$var wire 1 h- VNB $end
+$var wire 1 i- VPB $end
+$var wire 1 j- VPWR $end
+$var wire 1 k- GCLK $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dlclkp_4 $end
+$var wire 1 l- CLK $end
+$var wire 1 m- GATE $end
+$var wire 1 n- VGND $end
+$var wire 1 o- VNB $end
+$var wire 1 p- VPB $end
+$var wire 1 q- VPWR $end
+$var wire 1 r- GCLK $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dlrbn_1 $end
+$var wire 1 s- D $end
+$var wire 1 t- GATE_N $end
+$var wire 1 u- RESET_B $end
+$var wire 1 v- VGND $end
+$var wire 1 w- VNB $end
+$var wire 1 x- VPB $end
+$var wire 1 y- VPWR $end
+$var wire 1 z- Q_N $end
+$var wire 1 {- Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dlrbn_2 $end
+$var wire 1 |- D $end
+$var wire 1 }- GATE_N $end
+$var wire 1 ~- RESET_B $end
+$var wire 1 !. VGND $end
+$var wire 1 ". VNB $end
+$var wire 1 #. VPB $end
+$var wire 1 $. VPWR $end
+$var wire 1 %. Q_N $end
+$var wire 1 &. Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dlrbp_1 $end
+$var wire 1 '. D $end
+$var wire 1 (. GATE $end
+$var wire 1 ). RESET_B $end
+$var wire 1 *. VGND $end
+$var wire 1 +. VNB $end
+$var wire 1 ,. VPB $end
+$var wire 1 -. VPWR $end
+$var wire 1 .. Q_N $end
+$var wire 1 /. Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dlrbp_2 $end
+$var wire 1 0. D $end
+$var wire 1 1. GATE $end
+$var wire 1 2. RESET_B $end
+$var wire 1 3. VGND $end
+$var wire 1 4. VNB $end
+$var wire 1 5. VPB $end
+$var wire 1 6. VPWR $end
+$var wire 1 7. Q_N $end
+$var wire 1 8. Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dlrtn_1 $end
+$var wire 1 9. D $end
+$var wire 1 :. GATE_N $end
+$var wire 1 ;. RESET_B $end
+$var wire 1 <. VGND $end
+$var wire 1 =. VNB $end
+$var wire 1 >. VPB $end
+$var wire 1 ?. VPWR $end
+$var wire 1 @. Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dlrtn_2 $end
+$var wire 1 A. D $end
+$var wire 1 B. GATE_N $end
+$var wire 1 C. RESET_B $end
+$var wire 1 D. VGND $end
+$var wire 1 E. VNB $end
+$var wire 1 F. VPB $end
+$var wire 1 G. VPWR $end
+$var wire 1 H. Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dlrtn_4 $end
+$var wire 1 I. D $end
+$var wire 1 J. GATE_N $end
+$var wire 1 K. RESET_B $end
+$var wire 1 L. VGND $end
+$var wire 1 M. VNB $end
+$var wire 1 N. VPB $end
+$var wire 1 O. VPWR $end
+$var wire 1 P. Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dlrtp_1 $end
+$var wire 1 Q. D $end
+$var wire 1 R. GATE $end
+$var wire 1 S. RESET_B $end
+$var wire 1 T. VGND $end
+$var wire 1 U. VNB $end
+$var wire 1 V. VPB $end
+$var wire 1 W. VPWR $end
+$var wire 1 X. Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dlrtp_2 $end
+$var wire 1 Y. D $end
+$var wire 1 Z. GATE $end
+$var wire 1 [. RESET_B $end
+$var wire 1 \. VGND $end
+$var wire 1 ]. VNB $end
+$var wire 1 ^. VPB $end
+$var wire 1 _. VPWR $end
+$var wire 1 `. Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dlrtp_4 $end
+$var wire 1 a. D $end
+$var wire 1 b. GATE $end
+$var wire 1 c. RESET_B $end
+$var wire 1 d. VGND $end
+$var wire 1 e. VNB $end
+$var wire 1 f. VPB $end
+$var wire 1 g. VPWR $end
+$var wire 1 h. Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dlxbn_1 $end
+$var wire 1 i. D $end
+$var wire 1 j. GATE_N $end
+$var wire 1 k. VGND $end
+$var wire 1 l. VNB $end
+$var wire 1 m. VPB $end
+$var wire 1 n. VPWR $end
+$var wire 1 o. Q_N $end
+$var wire 1 p. Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dlxbn_2 $end
+$var wire 1 q. D $end
+$var wire 1 r. GATE_N $end
+$var wire 1 s. VGND $end
+$var wire 1 t. VNB $end
+$var wire 1 u. VPB $end
+$var wire 1 v. VPWR $end
+$var wire 1 w. Q_N $end
+$var wire 1 x. Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dlxbp_1 $end
+$var wire 1 y. D $end
+$var wire 1 z. GATE $end
+$var wire 1 {. VGND $end
+$var wire 1 |. VNB $end
+$var wire 1 }. VPB $end
+$var wire 1 ~. VPWR $end
+$var wire 1 !/ Q_N $end
+$var wire 1 "/ Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dlxtn_1 $end
+$var wire 1 #/ D $end
+$var wire 1 $/ GATE_N $end
+$var wire 1 %/ VGND $end
+$var wire 1 &/ VNB $end
+$var wire 1 '/ VPB $end
+$var wire 1 (/ VPWR $end
+$var wire 1 )/ Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dlxtn_2 $end
+$var wire 1 */ D $end
+$var wire 1 +/ GATE_N $end
+$var wire 1 ,/ VGND $end
+$var wire 1 -/ VNB $end
+$var wire 1 ./ VPB $end
+$var wire 1 // VPWR $end
+$var wire 1 0/ Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dlxtn_4 $end
+$var wire 1 1/ D $end
+$var wire 1 2/ GATE_N $end
+$var wire 1 3/ VGND $end
+$var wire 1 4/ VNB $end
+$var wire 1 5/ VPB $end
+$var wire 1 6/ VPWR $end
+$var wire 1 7/ Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dlxtp_1 $end
+$var wire 1 8/ D $end
+$var wire 1 9/ GATE $end
+$var wire 1 :/ VGND $end
+$var wire 1 ;/ VNB $end
+$var wire 1 </ VPB $end
+$var wire 1 =/ VPWR $end
+$var wire 1 >/ Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dlygate4sd1_1 $end
+$var wire 1 ?/ A $end
+$var wire 1 @/ VGND $end
+$var wire 1 A/ VNB $end
+$var wire 1 B/ VPB $end
+$var wire 1 C/ VPWR $end
+$var wire 1 D/ X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dlygate4sd2_1 $end
+$var wire 1 E/ A $end
+$var wire 1 F/ VGND $end
+$var wire 1 G/ VNB $end
+$var wire 1 H/ VPB $end
+$var wire 1 I/ VPWR $end
+$var wire 1 J/ X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dlygate4sd3_1 $end
+$var wire 1 K/ A $end
+$var wire 1 L/ VGND $end
+$var wire 1 M/ VNB $end
+$var wire 1 N/ VPB $end
+$var wire 1 O/ VPWR $end
+$var wire 1 P/ X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dlymetal6s2s_1 $end
+$var wire 1 Q/ A $end
+$var wire 1 R/ VGND $end
+$var wire 1 S/ VNB $end
+$var wire 1 T/ VPB $end
+$var wire 1 U/ VPWR $end
+$var wire 1 V/ X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dlymetal6s4s_1 $end
+$var wire 1 W/ A $end
+$var wire 1 X/ VGND $end
+$var wire 1 Y/ VNB $end
+$var wire 1 Z/ VPB $end
+$var wire 1 [/ VPWR $end
+$var wire 1 \/ X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__dlymetal6s6s_1 $end
+$var wire 1 ]/ A $end
+$var wire 1 ^/ VGND $end
+$var wire 1 _/ VNB $end
+$var wire 1 `/ VPB $end
+$var wire 1 a/ VPWR $end
+$var wire 1 b/ X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__ebufn_1 $end
+$var wire 1 c/ A $end
+$var wire 1 d/ TE_B $end
+$var wire 1 e/ VGND $end
+$var wire 1 f/ VNB $end
+$var wire 1 g/ VPB $end
+$var wire 1 h/ VPWR $end
+$var wire 1 i/ Z $end
+$upscope $end
+$scope module sky130_fd_sc_hd__ebufn_2 $end
+$var wire 1 j/ A $end
+$var wire 1 k/ TE_B $end
+$var wire 1 l/ VGND $end
+$var wire 1 m/ VNB $end
+$var wire 1 n/ VPB $end
+$var wire 1 o/ VPWR $end
+$var wire 1 p/ Z $end
+$upscope $end
+$scope module sky130_fd_sc_hd__ebufn_4 $end
+$var wire 1 q/ A $end
+$var wire 1 r/ TE_B $end
+$var wire 1 s/ VGND $end
+$var wire 1 t/ VNB $end
+$var wire 1 u/ VPB $end
+$var wire 1 v/ VPWR $end
+$var wire 1 w/ Z $end
+$upscope $end
+$scope module sky130_fd_sc_hd__ebufn_8 $end
+$var wire 1 x/ A $end
+$var wire 1 y/ TE_B $end
+$var wire 1 z/ VGND $end
+$var wire 1 {/ VNB $end
+$var wire 1 |/ VPB $end
+$var wire 1 }/ VPWR $end
+$var wire 1 ~/ Z $end
+$upscope $end
+$scope module sky130_fd_sc_hd__edfxbp_1 $end
+$var wire 1 !0 CLK $end
+$var wire 1 "0 D $end
+$var wire 1 #0 DE $end
+$var wire 1 $0 VGND $end
+$var wire 1 %0 VNB $end
+$var wire 1 &0 VPB $end
+$var wire 1 '0 VPWR $end
+$var wire 1 (0 Q_N $end
+$var wire 1 )0 Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__edfxtp_1 $end
+$var wire 1 *0 CLK $end
+$var wire 1 +0 D $end
+$var wire 1 ,0 DE $end
+$var wire 1 -0 VGND $end
+$var wire 1 .0 VNB $end
+$var wire 1 /0 VPB $end
+$var wire 1 00 VPWR $end
+$var wire 1 10 Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__einvn_0 $end
+$var wire 1 20 A $end
+$var wire 1 30 TE_B $end
+$var wire 1 40 VGND $end
+$var wire 1 50 VNB $end
+$var wire 1 60 VPB $end
+$var wire 1 70 VPWR $end
+$var wire 1 80 Z $end
+$upscope $end
+$scope module sky130_fd_sc_hd__einvn_1 $end
+$var wire 1 90 A $end
+$var wire 1 :0 TE_B $end
+$var wire 1 ;0 VGND $end
+$var wire 1 <0 VNB $end
+$var wire 1 =0 VPB $end
+$var wire 1 >0 VPWR $end
+$var wire 1 ?0 Z $end
+$upscope $end
+$scope module sky130_fd_sc_hd__einvn_2 $end
+$var wire 1 @0 A $end
+$var wire 1 A0 TE_B $end
+$var wire 1 B0 VGND $end
+$var wire 1 C0 VNB $end
+$var wire 1 D0 VPB $end
+$var wire 1 E0 VPWR $end
+$var wire 1 F0 Z $end
+$upscope $end
+$scope module sky130_fd_sc_hd__einvn_4 $end
+$var wire 1 G0 A $end
+$var wire 1 H0 TE_B $end
+$var wire 1 I0 VGND $end
+$var wire 1 J0 VNB $end
+$var wire 1 K0 VPB $end
+$var wire 1 L0 VPWR $end
+$var wire 1 M0 Z $end
+$upscope $end
+$scope module sky130_fd_sc_hd__einvn_8 $end
+$var wire 1 N0 A $end
+$var wire 1 O0 TE_B $end
+$var wire 1 P0 VGND $end
+$var wire 1 Q0 VNB $end
+$var wire 1 R0 VPB $end
+$var wire 1 S0 VPWR $end
+$var wire 1 T0 Z $end
+$upscope $end
+$scope module sky130_fd_sc_hd__einvp_1 $end
+$var wire 1 U0 A $end
+$var wire 1 V0 TE $end
+$var wire 1 W0 VGND $end
+$var wire 1 X0 VNB $end
+$var wire 1 Y0 VPB $end
+$var wire 1 Z0 VPWR $end
+$var wire 1 [0 Z $end
+$upscope $end
+$scope module sky130_fd_sc_hd__einvp_2 $end
+$var wire 1 \0 A $end
+$var wire 1 ]0 TE $end
+$var wire 1 ^0 VGND $end
+$var wire 1 _0 VNB $end
+$var wire 1 `0 VPB $end
+$var wire 1 a0 VPWR $end
+$var wire 1 b0 Z $end
+$upscope $end
+$scope module sky130_fd_sc_hd__einvp_4 $end
+$var wire 1 c0 A $end
+$var wire 1 d0 TE $end
+$var wire 1 e0 VGND $end
+$var wire 1 f0 VNB $end
+$var wire 1 g0 VPB $end
+$var wire 1 h0 VPWR $end
+$var wire 1 i0 Z $end
+$upscope $end
+$scope module sky130_fd_sc_hd__einvp_8 $end
+$var wire 1 j0 A $end
+$var wire 1 k0 TE $end
+$var wire 1 l0 VGND $end
+$var wire 1 m0 VNB $end
+$var wire 1 n0 VPB $end
+$var wire 1 o0 VPWR $end
+$var wire 1 p0 Z $end
+$upscope $end
+$scope module sky130_fd_sc_hd__fa_1 $end
+$var wire 1 q0 A $end
+$var wire 1 r0 B $end
+$var wire 1 s0 CIN $end
+$var wire 1 t0 VGND $end
+$var wire 1 u0 VNB $end
+$var wire 1 v0 VPB $end
+$var wire 1 w0 VPWR $end
+$var wire 1 x0 SUM $end
+$var wire 1 y0 COUT $end
+$upscope $end
+$scope module sky130_fd_sc_hd__fa_2 $end
+$var wire 1 z0 A $end
+$var wire 1 {0 B $end
+$var wire 1 |0 CIN $end
+$var wire 1 }0 VGND $end
+$var wire 1 ~0 VNB $end
+$var wire 1 !1 VPB $end
+$var wire 1 "1 VPWR $end
+$var wire 1 #1 SUM $end
+$var wire 1 $1 COUT $end
+$upscope $end
+$scope module sky130_fd_sc_hd__fa_4 $end
+$var wire 1 %1 A $end
+$var wire 1 &1 B $end
+$var wire 1 '1 CIN $end
+$var wire 1 (1 VGND $end
+$var wire 1 )1 VNB $end
+$var wire 1 *1 VPB $end
+$var wire 1 +1 VPWR $end
+$var wire 1 ,1 SUM $end
+$var wire 1 -1 COUT $end
+$upscope $end
+$scope module sky130_fd_sc_hd__fah_1 $end
+$var wire 1 .1 A $end
+$var wire 1 /1 B $end
+$var wire 1 01 CI $end
+$var wire 1 11 VGND $end
+$var wire 1 21 VNB $end
+$var wire 1 31 VPB $end
+$var wire 1 41 VPWR $end
+$var wire 1 51 SUM $end
+$var wire 1 61 COUT $end
+$upscope $end
+$scope module sky130_fd_sc_hd__fahcin_1 $end
+$var wire 1 71 A $end
+$var wire 1 81 B $end
+$var wire 1 91 CIN $end
+$var wire 1 :1 VGND $end
+$var wire 1 ;1 VNB $end
+$var wire 1 <1 VPB $end
+$var wire 1 =1 VPWR $end
+$var wire 1 >1 SUM $end
+$var wire 1 ?1 COUT $end
+$upscope $end
+$scope module sky130_fd_sc_hd__fahcon_1 $end
+$var wire 1 @1 A $end
+$var wire 1 A1 B $end
+$var wire 1 B1 CI $end
+$var wire 1 C1 VGND $end
+$var wire 1 D1 VNB $end
+$var wire 1 E1 VPB $end
+$var wire 1 F1 VPWR $end
+$var wire 1 G1 SUM $end
+$var wire 1 H1 COUT_N $end
+$upscope $end
+$scope module sky130_fd_sc_hd__fill_1 $end
+$var wire 1 I1 VGND $end
+$var wire 1 J1 VNB $end
+$var wire 1 K1 VPB $end
+$var wire 1 L1 VPWR $end
+$upscope $end
+$scope module sky130_fd_sc_hd__fill_2 $end
+$var wire 1 M1 VGND $end
+$var wire 1 N1 VNB $end
+$var wire 1 O1 VPB $end
+$var wire 1 P1 VPWR $end
+$upscope $end
+$scope module sky130_fd_sc_hd__fill_4 $end
+$var wire 1 Q1 VGND $end
+$var wire 1 R1 VNB $end
+$var wire 1 S1 VPB $end
+$var wire 1 T1 VPWR $end
+$upscope $end
+$scope module sky130_fd_sc_hd__fill_8 $end
+$var wire 1 U1 VGND $end
+$var wire 1 V1 VNB $end
+$var wire 1 W1 VPB $end
+$var wire 1 X1 VPWR $end
+$upscope $end
+$scope module sky130_fd_sc_hd__ha_1 $end
+$var wire 1 Y1 A $end
+$var wire 1 Z1 B $end
+$var wire 1 [1 VGND $end
+$var wire 1 \1 VNB $end
+$var wire 1 ]1 VPB $end
+$var wire 1 ^1 VPWR $end
+$var wire 1 _1 SUM $end
+$var wire 1 `1 COUT $end
+$upscope $end
+$scope module sky130_fd_sc_hd__ha_2 $end
+$var wire 1 a1 A $end
+$var wire 1 b1 B $end
+$var wire 1 c1 VGND $end
+$var wire 1 d1 VNB $end
+$var wire 1 e1 VPB $end
+$var wire 1 f1 VPWR $end
+$var wire 1 g1 SUM $end
+$var wire 1 h1 COUT $end
+$upscope $end
+$scope module sky130_fd_sc_hd__ha_4 $end
+$var wire 1 i1 A $end
+$var wire 1 j1 B $end
+$var wire 1 k1 VGND $end
+$var wire 1 l1 VNB $end
+$var wire 1 m1 VPB $end
+$var wire 1 n1 VPWR $end
+$var wire 1 o1 SUM $end
+$var wire 1 p1 COUT $end
+$upscope $end
+$scope module sky130_fd_sc_hd__inv_1 $end
+$var wire 1 q1 A $end
+$var wire 1 r1 VGND $end
+$var wire 1 s1 VNB $end
+$var wire 1 t1 VPB $end
+$var wire 1 u1 VPWR $end
+$var wire 1 v1 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__inv_12 $end
+$var wire 1 w1 A $end
+$var wire 1 x1 VGND $end
+$var wire 1 y1 VNB $end
+$var wire 1 z1 VPB $end
+$var wire 1 {1 VPWR $end
+$var wire 1 |1 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__inv_16 $end
+$var wire 1 }1 A $end
+$var wire 1 ~1 VGND $end
+$var wire 1 !2 VNB $end
+$var wire 1 "2 VPB $end
+$var wire 1 #2 VPWR $end
+$var wire 1 $2 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__inv_4 $end
+$var wire 1 %2 A $end
+$var wire 1 &2 VGND $end
+$var wire 1 '2 VNB $end
+$var wire 1 (2 VPB $end
+$var wire 1 )2 VPWR $end
+$var wire 1 *2 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__inv_6 $end
+$var wire 1 +2 A $end
+$var wire 1 ,2 VGND $end
+$var wire 1 -2 VNB $end
+$var wire 1 .2 VPB $end
+$var wire 1 /2 VPWR $end
+$var wire 1 02 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__inv_8 $end
+$var wire 1 12 A $end
+$var wire 1 22 VGND $end
+$var wire 1 32 VNB $end
+$var wire 1 42 VPB $end
+$var wire 1 52 VPWR $end
+$var wire 1 62 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__lpflow_bleeder_1 $end
+$var wire 1 72 SHORT $end
+$var wire 1 82 VGND $end
+$var wire 1 92 VNB $end
+$var wire 1 :2 VPB $end
+$upscope $end
+$scope module sky130_fd_sc_hd__lpflow_clkbufkapwr_1 $end
+$var wire 1 ;2 A $end
+$var wire 1 <2 KAPWR $end
+$var wire 1 =2 VGND $end
+$var wire 1 >2 VNB $end
+$var wire 1 ?2 VPB $end
+$var wire 1 @2 VPWR $end
+$var wire 1 A2 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__lpflow_clkbufkapwr_16 $end
+$var wire 1 B2 A $end
+$var wire 1 C2 KAPWR $end
+$var wire 1 D2 VGND $end
+$var wire 1 E2 VNB $end
+$var wire 1 F2 VPB $end
+$var wire 1 G2 VPWR $end
+$var wire 1 H2 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__lpflow_clkbufkapwr_2 $end
+$var wire 1 I2 A $end
+$var wire 1 J2 KAPWR $end
+$var wire 1 K2 VGND $end
+$var wire 1 L2 VNB $end
+$var wire 1 M2 VPB $end
+$var wire 1 N2 VPWR $end
+$var wire 1 O2 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__lpflow_clkbufkapwr_4 $end
+$var wire 1 P2 A $end
+$var wire 1 Q2 KAPWR $end
+$var wire 1 R2 VGND $end
+$var wire 1 S2 VNB $end
+$var wire 1 T2 VPB $end
+$var wire 1 U2 VPWR $end
+$var wire 1 V2 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__lpflow_clkbufkapwr_8 $end
+$var wire 1 W2 A $end
+$var wire 1 X2 KAPWR $end
+$var wire 1 Y2 VGND $end
+$var wire 1 Z2 VNB $end
+$var wire 1 [2 VPB $end
+$var wire 1 \2 VPWR $end
+$var wire 1 ]2 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__lpflow_clkinvkapwr_1 $end
+$var wire 1 ^2 A $end
+$var wire 1 _2 KAPWR $end
+$var wire 1 `2 VGND $end
+$var wire 1 a2 VNB $end
+$var wire 1 b2 VPB $end
+$var wire 1 c2 VPWR $end
+$var wire 1 d2 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__lpflow_clkinvkapwr_16 $end
+$var wire 1 e2 A $end
+$var wire 1 f2 KAPWR $end
+$var wire 1 g2 VGND $end
+$var wire 1 h2 VNB $end
+$var wire 1 i2 VPB $end
+$var wire 1 j2 VPWR $end
+$var wire 1 k2 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__lpflow_clkinvkapwr_2 $end
+$var wire 1 l2 A $end
+$var wire 1 m2 KAPWR $end
+$var wire 1 n2 VGND $end
+$var wire 1 o2 VNB $end
+$var wire 1 p2 VPB $end
+$var wire 1 q2 VPWR $end
+$var wire 1 r2 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__lpflow_clkinvkapwr_4 $end
+$var wire 1 s2 A $end
+$var wire 1 t2 KAPWR $end
+$var wire 1 u2 VGND $end
+$var wire 1 v2 VNB $end
+$var wire 1 w2 VPB $end
+$var wire 1 x2 VPWR $end
+$var wire 1 y2 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__lpflow_clkinvkapwr_8 $end
+$var wire 1 z2 A $end
+$var wire 1 {2 KAPWR $end
+$var wire 1 |2 VGND $end
+$var wire 1 }2 VNB $end
+$var wire 1 ~2 VPB $end
+$var wire 1 !3 VPWR $end
+$var wire 1 "3 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__lpflow_decapkapwr_12 $end
+$var wire 1 #3 KAPWR $end
+$var wire 1 $3 VGND $end
+$var wire 1 %3 VNB $end
+$var wire 1 &3 VPB $end
+$var wire 1 '3 VPWR $end
+$upscope $end
+$scope module sky130_fd_sc_hd__lpflow_decapkapwr_3 $end
+$var wire 1 (3 KAPWR $end
+$var wire 1 )3 VGND $end
+$var wire 1 *3 VNB $end
+$var wire 1 +3 VPB $end
+$var wire 1 ,3 VPWR $end
+$upscope $end
+$scope module sky130_fd_sc_hd__lpflow_decapkapwr_4 $end
+$var wire 1 -3 KAPWR $end
+$var wire 1 .3 VGND $end
+$var wire 1 /3 VNB $end
+$var wire 1 03 VPB $end
+$var wire 1 13 VPWR $end
+$upscope $end
+$scope module sky130_fd_sc_hd__lpflow_decapkapwr_6 $end
+$var wire 1 23 KAPWR $end
+$var wire 1 33 VGND $end
+$var wire 1 43 VNB $end
+$var wire 1 53 VPB $end
+$var wire 1 63 VPWR $end
+$upscope $end
+$scope module sky130_fd_sc_hd__lpflow_decapkapwr_8 $end
+$var wire 1 73 KAPWR $end
+$var wire 1 83 VGND $end
+$var wire 1 93 VNB $end
+$var wire 1 :3 VPB $end
+$var wire 1 ;3 VPWR $end
+$upscope $end
+$scope module sky130_fd_sc_hd__lpflow_inputiso0n_1 $end
+$var wire 1 <3 A $end
+$var wire 1 =3 SLEEP_B $end
+$var wire 1 >3 VGND $end
+$var wire 1 ?3 VNB $end
+$var wire 1 @3 VPB $end
+$var wire 1 A3 VPWR $end
+$var wire 1 B3 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__lpflow_inputiso0p_1 $end
+$var wire 1 C3 A $end
+$var wire 1 D3 SLEEP $end
+$var wire 1 E3 VGND $end
+$var wire 1 F3 VNB $end
+$var wire 1 G3 VPB $end
+$var wire 1 H3 VPWR $end
+$var wire 1 I3 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__lpflow_inputiso1n_1 $end
+$var wire 1 J3 A $end
+$var wire 1 K3 SLEEP_B $end
+$var wire 1 L3 VGND $end
+$var wire 1 M3 VNB $end
+$var wire 1 N3 VPB $end
+$var wire 1 O3 VPWR $end
+$var wire 1 P3 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__lpflow_inputiso1p_1 $end
+$var wire 1 Q3 A $end
+$var wire 1 R3 SLEEP $end
+$var wire 1 S3 VGND $end
+$var wire 1 T3 VNB $end
+$var wire 1 U3 VPB $end
+$var wire 1 V3 VPWR $end
+$var wire 1 W3 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__lpflow_inputisolatch_1 $end
+$var wire 1 X3 D $end
+$var wire 1 Y3 SLEEP_B $end
+$var wire 1 Z3 VGND $end
+$var wire 1 [3 VNB $end
+$var wire 1 \3 VPB $end
+$var wire 1 ]3 VPWR $end
+$var wire 1 ^3 Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__lpflow_isobufsrc_1 $end
+$var wire 1 _3 A $end
+$var wire 1 `3 SLEEP $end
+$var wire 1 a3 VGND $end
+$var wire 1 b3 VNB $end
+$var wire 1 c3 VPB $end
+$var wire 1 d3 VPWR $end
+$var wire 1 e3 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__lpflow_isobufsrc_16 $end
+$var wire 1 f3 A $end
+$var wire 1 g3 SLEEP $end
+$var wire 1 h3 VGND $end
+$var wire 1 i3 VNB $end
+$var wire 1 j3 VPB $end
+$var wire 1 k3 VPWR $end
+$var wire 1 l3 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__lpflow_isobufsrc_2 $end
+$var wire 1 m3 A $end
+$var wire 1 n3 SLEEP $end
+$var wire 1 o3 VGND $end
+$var wire 1 p3 VNB $end
+$var wire 1 q3 VPB $end
+$var wire 1 r3 VPWR $end
+$var wire 1 s3 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__lpflow_isobufsrc_4 $end
+$var wire 1 t3 A $end
+$var wire 1 u3 SLEEP $end
+$var wire 1 v3 VGND $end
+$var wire 1 w3 VNB $end
+$var wire 1 x3 VPB $end
+$var wire 1 y3 VPWR $end
+$var wire 1 z3 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__lpflow_isobufsrc_8 $end
+$var wire 1 {3 A $end
+$var wire 1 |3 SLEEP $end
+$var wire 1 }3 VGND $end
+$var wire 1 ~3 VNB $end
+$var wire 1 !4 VPB $end
+$var wire 1 "4 VPWR $end
+$var wire 1 #4 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__lpflow_isobufsrckapwr_16 $end
+$var wire 1 $4 A $end
+$var wire 1 %4 KAPWR $end
+$var wire 1 &4 SLEEP $end
+$var wire 1 '4 VGND $end
+$var wire 1 (4 VNB $end
+$var wire 1 )4 VPB $end
+$var wire 1 *4 VPWR $end
+$var wire 1 +4 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__lpflow_lsbuf_lh_hl_isowell_tap_1 $end
+$var wire 1 ,4 A $end
+$var wire 1 -4 VGND $end
+$var wire 1 .4 VPB $end
+$var wire 1 /4 VPWR $end
+$var wire 1 04 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__lpflow_lsbuf_lh_hl_isowell_tap_2 $end
+$var wire 1 14 A $end
+$var wire 1 24 VGND $end
+$var wire 1 34 VPB $end
+$var wire 1 44 VPWR $end
+$var wire 1 54 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__lpflow_lsbuf_lh_hl_isowell_tap_4 $end
+$var wire 1 64 A $end
+$var wire 1 74 VGND $end
+$var wire 1 84 VPB $end
+$var wire 1 94 VPWR $end
+$var wire 1 :4 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__lpflow_lsbuf_lh_isowell_4 $end
+$var wire 1 ;4 A $end
+$var wire 1 <4 VGND $end
+$var wire 1 =4 VNB $end
+$var wire 1 >4 VPB $end
+$var wire 1 ?4 VPWR $end
+$var wire 1 @4 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__lpflow_lsbuf_lh_isowell_tap_1 $end
+$var wire 1 A4 A $end
+$var wire 1 B4 VGND $end
+$var wire 1 C4 VPB $end
+$var wire 1 D4 VPWR $end
+$var wire 1 E4 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__lpflow_lsbuf_lh_isowell_tap_2 $end
+$var wire 1 F4 A $end
+$var wire 1 G4 VGND $end
+$var wire 1 H4 VPB $end
+$var wire 1 I4 VPWR $end
+$var wire 1 J4 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__lpflow_lsbuf_lh_isowell_tap_4 $end
+$var wire 1 K4 A $end
+$var wire 1 L4 VGND $end
+$var wire 1 M4 VPB $end
+$var wire 1 N4 VPWR $end
+$var wire 1 O4 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__macro_sparecell $end
+$var wire 1 P4 LO $end
+$var wire 1 Q4 net7 $end
+$var wire 1 R4 tielo $end
+$var wire 1 S4 nor2right $end
+$var wire 1 T4 nor2left $end
+$var wire 1 U4 nd2right $end
+$var wire 1 V4 nd2left $end
+$var wire 1 W4 invright $end
+$var wire 1 X4 invleft $end
+$upscope $end
+$scope module sky130_fd_sc_hd__maj3_2 $end
+$var wire 1 Y4 A $end
+$var wire 1 Z4 B $end
+$var wire 1 [4 C $end
+$var wire 1 \4 VGND $end
+$var wire 1 ]4 VNB $end
+$var wire 1 ^4 VPB $end
+$var wire 1 _4 VPWR $end
+$var wire 1 `4 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__maj3_4 $end
+$var wire 1 a4 A $end
+$var wire 1 b4 B $end
+$var wire 1 c4 C $end
+$var wire 1 d4 VGND $end
+$var wire 1 e4 VNB $end
+$var wire 1 f4 VPB $end
+$var wire 1 g4 VPWR $end
+$var wire 1 h4 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__mux2_2 $end
+$var wire 1 i4 A0 $end
+$var wire 1 j4 A1 $end
+$var wire 1 k4 S $end
+$var wire 1 l4 VGND $end
+$var wire 1 m4 VNB $end
+$var wire 1 n4 VPB $end
+$var wire 1 o4 VPWR $end
+$var wire 1 p4 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__mux2_4 $end
+$var wire 1 q4 A0 $end
+$var wire 1 r4 A1 $end
+$var wire 1 s4 S $end
+$var wire 1 t4 VGND $end
+$var wire 1 u4 VNB $end
+$var wire 1 v4 VPB $end
+$var wire 1 w4 VPWR $end
+$var wire 1 x4 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__mux2_8 $end
+$var wire 1 y4 A0 $end
+$var wire 1 z4 A1 $end
+$var wire 1 {4 S $end
+$var wire 1 |4 VGND $end
+$var wire 1 }4 VNB $end
+$var wire 1 ~4 VPB $end
+$var wire 1 !5 VPWR $end
+$var wire 1 "5 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__mux2i_1 $end
+$var wire 1 #5 A0 $end
+$var wire 1 $5 A1 $end
+$var wire 1 %5 S $end
+$var wire 1 &5 VGND $end
+$var wire 1 '5 VNB $end
+$var wire 1 (5 VPB $end
+$var wire 1 )5 VPWR $end
+$var wire 1 *5 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__mux2i_2 $end
+$var wire 1 +5 A0 $end
+$var wire 1 ,5 A1 $end
+$var wire 1 -5 S $end
+$var wire 1 .5 VGND $end
+$var wire 1 /5 VNB $end
+$var wire 1 05 VPB $end
+$var wire 1 15 VPWR $end
+$var wire 1 25 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__mux2i_4 $end
+$var wire 1 35 A0 $end
+$var wire 1 45 A1 $end
+$var wire 1 55 S $end
+$var wire 1 65 VGND $end
+$var wire 1 75 VNB $end
+$var wire 1 85 VPB $end
+$var wire 1 95 VPWR $end
+$var wire 1 :5 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__mux4_1 $end
+$var wire 1 ;5 A0 $end
+$var wire 1 <5 A1 $end
+$var wire 1 =5 A2 $end
+$var wire 1 >5 A3 $end
+$var wire 1 ?5 S0 $end
+$var wire 1 @5 S1 $end
+$var wire 1 A5 VGND $end
+$var wire 1 B5 VNB $end
+$var wire 1 C5 VPB $end
+$var wire 1 D5 VPWR $end
+$var wire 1 E5 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__mux4_2 $end
+$var wire 1 F5 A0 $end
+$var wire 1 G5 A1 $end
+$var wire 1 H5 A2 $end
+$var wire 1 I5 A3 $end
+$var wire 1 J5 S0 $end
+$var wire 1 K5 S1 $end
+$var wire 1 L5 VGND $end
+$var wire 1 M5 VNB $end
+$var wire 1 N5 VPB $end
+$var wire 1 O5 VPWR $end
+$var wire 1 P5 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__mux4_4 $end
+$var wire 1 Q5 A0 $end
+$var wire 1 R5 A1 $end
+$var wire 1 S5 A2 $end
+$var wire 1 T5 A3 $end
+$var wire 1 U5 S0 $end
+$var wire 1 V5 S1 $end
+$var wire 1 W5 VGND $end
+$var wire 1 X5 VNB $end
+$var wire 1 Y5 VPB $end
+$var wire 1 Z5 VPWR $end
+$var wire 1 [5 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nand2_1 $end
+$var wire 1 \5 A $end
+$var wire 1 ]5 B $end
+$var wire 1 ^5 VGND $end
+$var wire 1 _5 VNB $end
+$var wire 1 `5 VPB $end
+$var wire 1 a5 VPWR $end
+$var wire 1 b5 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nand2_4 $end
+$var wire 1 c5 A $end
+$var wire 1 d5 B $end
+$var wire 1 e5 VGND $end
+$var wire 1 f5 VNB $end
+$var wire 1 g5 VPB $end
+$var wire 1 h5 VPWR $end
+$var wire 1 i5 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nand2_8 $end
+$var wire 1 j5 A $end
+$var wire 1 k5 B $end
+$var wire 1 l5 VGND $end
+$var wire 1 m5 VNB $end
+$var wire 1 n5 VPB $end
+$var wire 1 o5 VPWR $end
+$var wire 1 p5 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nand2b_1 $end
+$var wire 1 q5 A_N $end
+$var wire 1 r5 B $end
+$var wire 1 s5 VGND $end
+$var wire 1 t5 VNB $end
+$var wire 1 u5 VPB $end
+$var wire 1 v5 VPWR $end
+$var wire 1 w5 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nand2b_2 $end
+$var wire 1 x5 A_N $end
+$var wire 1 y5 B $end
+$var wire 1 z5 VGND $end
+$var wire 1 {5 VNB $end
+$var wire 1 |5 VPB $end
+$var wire 1 }5 VPWR $end
+$var wire 1 ~5 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nand2b_4 $end
+$var wire 1 !6 A_N $end
+$var wire 1 "6 B $end
+$var wire 1 #6 VGND $end
+$var wire 1 $6 VNB $end
+$var wire 1 %6 VPB $end
+$var wire 1 &6 VPWR $end
+$var wire 1 '6 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nand3_1 $end
+$var wire 1 (6 A $end
+$var wire 1 )6 B $end
+$var wire 1 *6 C $end
+$var wire 1 +6 VGND $end
+$var wire 1 ,6 VNB $end
+$var wire 1 -6 VPB $end
+$var wire 1 .6 VPWR $end
+$var wire 1 /6 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nand3_2 $end
+$var wire 1 06 A $end
+$var wire 1 16 B $end
+$var wire 1 26 C $end
+$var wire 1 36 VGND $end
+$var wire 1 46 VNB $end
+$var wire 1 56 VPB $end
+$var wire 1 66 VPWR $end
+$var wire 1 76 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nand3_4 $end
+$var wire 1 86 A $end
+$var wire 1 96 B $end
+$var wire 1 :6 C $end
+$var wire 1 ;6 VGND $end
+$var wire 1 <6 VNB $end
+$var wire 1 =6 VPB $end
+$var wire 1 >6 VPWR $end
+$var wire 1 ?6 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nand3b_1 $end
+$var wire 1 @6 A_N $end
+$var wire 1 A6 B $end
+$var wire 1 B6 C $end
+$var wire 1 C6 VGND $end
+$var wire 1 D6 VNB $end
+$var wire 1 E6 VPB $end
+$var wire 1 F6 VPWR $end
+$var wire 1 G6 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nand3b_2 $end
+$var wire 1 H6 A_N $end
+$var wire 1 I6 B $end
+$var wire 1 J6 C $end
+$var wire 1 K6 VGND $end
+$var wire 1 L6 VNB $end
+$var wire 1 M6 VPB $end
+$var wire 1 N6 VPWR $end
+$var wire 1 O6 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nand3b_4 $end
+$var wire 1 P6 A_N $end
+$var wire 1 Q6 B $end
+$var wire 1 R6 C $end
+$var wire 1 S6 VGND $end
+$var wire 1 T6 VNB $end
+$var wire 1 U6 VPB $end
+$var wire 1 V6 VPWR $end
+$var wire 1 W6 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nand4_1 $end
+$var wire 1 X6 A $end
+$var wire 1 Y6 B $end
+$var wire 1 Z6 C $end
+$var wire 1 [6 D $end
+$var wire 1 \6 VGND $end
+$var wire 1 ]6 VNB $end
+$var wire 1 ^6 VPB $end
+$var wire 1 _6 VPWR $end
+$var wire 1 `6 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nand4_2 $end
+$var wire 1 a6 A $end
+$var wire 1 b6 B $end
+$var wire 1 c6 C $end
+$var wire 1 d6 D $end
+$var wire 1 e6 VGND $end
+$var wire 1 f6 VNB $end
+$var wire 1 g6 VPB $end
+$var wire 1 h6 VPWR $end
+$var wire 1 i6 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nand4_4 $end
+$var wire 1 j6 A $end
+$var wire 1 k6 B $end
+$var wire 1 l6 C $end
+$var wire 1 m6 D $end
+$var wire 1 n6 VGND $end
+$var wire 1 o6 VNB $end
+$var wire 1 p6 VPB $end
+$var wire 1 q6 VPWR $end
+$var wire 1 r6 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nand4b_1 $end
+$var wire 1 s6 A_N $end
+$var wire 1 t6 B $end
+$var wire 1 u6 C $end
+$var wire 1 v6 D $end
+$var wire 1 w6 VGND $end
+$var wire 1 x6 VNB $end
+$var wire 1 y6 VPB $end
+$var wire 1 z6 VPWR $end
+$var wire 1 {6 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nand4b_2 $end
+$var wire 1 |6 A_N $end
+$var wire 1 }6 B $end
+$var wire 1 ~6 C $end
+$var wire 1 !7 D $end
+$var wire 1 "7 VGND $end
+$var wire 1 #7 VNB $end
+$var wire 1 $7 VPB $end
+$var wire 1 %7 VPWR $end
+$var wire 1 &7 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nand4b_4 $end
+$var wire 1 '7 A_N $end
+$var wire 1 (7 B $end
+$var wire 1 )7 C $end
+$var wire 1 *7 D $end
+$var wire 1 +7 VGND $end
+$var wire 1 ,7 VNB $end
+$var wire 1 -7 VPB $end
+$var wire 1 .7 VPWR $end
+$var wire 1 /7 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nand4bb_1 $end
+$var wire 1 07 A_N $end
+$var wire 1 17 B_N $end
+$var wire 1 27 C $end
+$var wire 1 37 D $end
+$var wire 1 47 VGND $end
+$var wire 1 57 VNB $end
+$var wire 1 67 VPB $end
+$var wire 1 77 VPWR $end
+$var wire 1 87 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nand4bb_2 $end
+$var wire 1 97 A_N $end
+$var wire 1 :7 B_N $end
+$var wire 1 ;7 C $end
+$var wire 1 <7 D $end
+$var wire 1 =7 VGND $end
+$var wire 1 >7 VNB $end
+$var wire 1 ?7 VPB $end
+$var wire 1 @7 VPWR $end
+$var wire 1 A7 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nand4bb_4 $end
+$var wire 1 B7 A_N $end
+$var wire 1 C7 B_N $end
+$var wire 1 D7 C $end
+$var wire 1 E7 D $end
+$var wire 1 F7 VGND $end
+$var wire 1 G7 VNB $end
+$var wire 1 H7 VPB $end
+$var wire 1 I7 VPWR $end
+$var wire 1 J7 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nor2_1 $end
+$var wire 1 K7 A $end
+$var wire 1 L7 B $end
+$var wire 1 M7 VGND $end
+$var wire 1 N7 VNB $end
+$var wire 1 O7 VPB $end
+$var wire 1 P7 VPWR $end
+$var wire 1 Q7 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nor2_4 $end
+$var wire 1 R7 A $end
+$var wire 1 S7 B $end
+$var wire 1 T7 VGND $end
+$var wire 1 U7 VNB $end
+$var wire 1 V7 VPB $end
+$var wire 1 W7 VPWR $end
+$var wire 1 X7 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nor2_8 $end
+$var wire 1 Y7 A $end
+$var wire 1 Z7 B $end
+$var wire 1 [7 VGND $end
+$var wire 1 \7 VNB $end
+$var wire 1 ]7 VPB $end
+$var wire 1 ^7 VPWR $end
+$var wire 1 _7 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nor2b_1 $end
+$var wire 1 `7 A $end
+$var wire 1 a7 B_N $end
+$var wire 1 b7 VGND $end
+$var wire 1 c7 VNB $end
+$var wire 1 d7 VPB $end
+$var wire 1 e7 VPWR $end
+$var wire 1 f7 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nor2b_2 $end
+$var wire 1 g7 A $end
+$var wire 1 h7 B_N $end
+$var wire 1 i7 VGND $end
+$var wire 1 j7 VNB $end
+$var wire 1 k7 VPB $end
+$var wire 1 l7 VPWR $end
+$var wire 1 m7 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nor2b_4 $end
+$var wire 1 n7 A $end
+$var wire 1 o7 B_N $end
+$var wire 1 p7 VGND $end
+$var wire 1 q7 VNB $end
+$var wire 1 r7 VPB $end
+$var wire 1 s7 VPWR $end
+$var wire 1 t7 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nor3_1 $end
+$var wire 1 u7 A $end
+$var wire 1 v7 B $end
+$var wire 1 w7 C $end
+$var wire 1 x7 VGND $end
+$var wire 1 y7 VNB $end
+$var wire 1 z7 VPB $end
+$var wire 1 {7 VPWR $end
+$var wire 1 |7 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nor3_2 $end
+$var wire 1 }7 A $end
+$var wire 1 ~7 B $end
+$var wire 1 !8 C $end
+$var wire 1 "8 VGND $end
+$var wire 1 #8 VNB $end
+$var wire 1 $8 VPB $end
+$var wire 1 %8 VPWR $end
+$var wire 1 &8 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nor3_4 $end
+$var wire 1 '8 A $end
+$var wire 1 (8 B $end
+$var wire 1 )8 C $end
+$var wire 1 *8 VGND $end
+$var wire 1 +8 VNB $end
+$var wire 1 ,8 VPB $end
+$var wire 1 -8 VPWR $end
+$var wire 1 .8 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nor3b_1 $end
+$var wire 1 /8 A $end
+$var wire 1 08 B $end
+$var wire 1 18 C_N $end
+$var wire 1 28 VGND $end
+$var wire 1 38 VNB $end
+$var wire 1 48 VPB $end
+$var wire 1 58 VPWR $end
+$var wire 1 68 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nor3b_2 $end
+$var wire 1 78 A $end
+$var wire 1 88 B $end
+$var wire 1 98 C_N $end
+$var wire 1 :8 VGND $end
+$var wire 1 ;8 VNB $end
+$var wire 1 <8 VPB $end
+$var wire 1 =8 VPWR $end
+$var wire 1 >8 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nor3b_4 $end
+$var wire 1 ?8 A $end
+$var wire 1 @8 B $end
+$var wire 1 A8 C_N $end
+$var wire 1 B8 VGND $end
+$var wire 1 C8 VNB $end
+$var wire 1 D8 VPB $end
+$var wire 1 E8 VPWR $end
+$var wire 1 F8 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nor4_1 $end
+$var wire 1 G8 A $end
+$var wire 1 H8 B $end
+$var wire 1 I8 C $end
+$var wire 1 J8 D $end
+$var wire 1 K8 VGND $end
+$var wire 1 L8 VNB $end
+$var wire 1 M8 VPB $end
+$var wire 1 N8 VPWR $end
+$var wire 1 O8 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nor4_2 $end
+$var wire 1 P8 A $end
+$var wire 1 Q8 B $end
+$var wire 1 R8 C $end
+$var wire 1 S8 D $end
+$var wire 1 T8 VGND $end
+$var wire 1 U8 VNB $end
+$var wire 1 V8 VPB $end
+$var wire 1 W8 VPWR $end
+$var wire 1 X8 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nor4_4 $end
+$var wire 1 Y8 A $end
+$var wire 1 Z8 B $end
+$var wire 1 [8 C $end
+$var wire 1 \8 D $end
+$var wire 1 ]8 VGND $end
+$var wire 1 ^8 VNB $end
+$var wire 1 _8 VPB $end
+$var wire 1 `8 VPWR $end
+$var wire 1 a8 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nor4b_1 $end
+$var wire 1 b8 A $end
+$var wire 1 c8 B $end
+$var wire 1 d8 C $end
+$var wire 1 e8 D_N $end
+$var wire 1 f8 VGND $end
+$var wire 1 g8 VNB $end
+$var wire 1 h8 VPB $end
+$var wire 1 i8 VPWR $end
+$var wire 1 j8 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nor4b_2 $end
+$var wire 1 k8 A $end
+$var wire 1 l8 B $end
+$var wire 1 m8 C $end
+$var wire 1 n8 D_N $end
+$var wire 1 o8 VGND $end
+$var wire 1 p8 VNB $end
+$var wire 1 q8 VPB $end
+$var wire 1 r8 VPWR $end
+$var wire 1 s8 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nor4b_4 $end
+$var wire 1 t8 A $end
+$var wire 1 u8 B $end
+$var wire 1 v8 C $end
+$var wire 1 w8 D_N $end
+$var wire 1 x8 VGND $end
+$var wire 1 y8 VNB $end
+$var wire 1 z8 VPB $end
+$var wire 1 {8 VPWR $end
+$var wire 1 |8 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nor4bb_1 $end
+$var wire 1 }8 A $end
+$var wire 1 ~8 B $end
+$var wire 1 !9 C_N $end
+$var wire 1 "9 D_N $end
+$var wire 1 #9 VGND $end
+$var wire 1 $9 VNB $end
+$var wire 1 %9 VPB $end
+$var wire 1 &9 VPWR $end
+$var wire 1 '9 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nor4bb_2 $end
+$var wire 1 (9 A $end
+$var wire 1 )9 B $end
+$var wire 1 *9 C_N $end
+$var wire 1 +9 D_N $end
+$var wire 1 ,9 VGND $end
+$var wire 1 -9 VNB $end
+$var wire 1 .9 VPB $end
+$var wire 1 /9 VPWR $end
+$var wire 1 09 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__nor4bb_4 $end
+$var wire 1 19 A $end
+$var wire 1 29 B $end
+$var wire 1 39 C_N $end
+$var wire 1 49 D_N $end
+$var wire 1 59 VGND $end
+$var wire 1 69 VNB $end
+$var wire 1 79 VPB $end
+$var wire 1 89 VPWR $end
+$var wire 1 99 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o2111a_1 $end
+$var wire 1 :9 A1 $end
+$var wire 1 ;9 A2 $end
+$var wire 1 <9 B1 $end
+$var wire 1 =9 C1 $end
+$var wire 1 >9 D1 $end
+$var wire 1 ?9 VGND $end
+$var wire 1 @9 VNB $end
+$var wire 1 A9 VPB $end
+$var wire 1 B9 VPWR $end
+$var wire 1 C9 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o2111a_2 $end
+$var wire 1 D9 A1 $end
+$var wire 1 E9 A2 $end
+$var wire 1 F9 B1 $end
+$var wire 1 G9 C1 $end
+$var wire 1 H9 D1 $end
+$var wire 1 I9 VGND $end
+$var wire 1 J9 VNB $end
+$var wire 1 K9 VPB $end
+$var wire 1 L9 VPWR $end
+$var wire 1 M9 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o2111a_4 $end
+$var wire 1 N9 A1 $end
+$var wire 1 O9 A2 $end
+$var wire 1 P9 B1 $end
+$var wire 1 Q9 C1 $end
+$var wire 1 R9 D1 $end
+$var wire 1 S9 VGND $end
+$var wire 1 T9 VNB $end
+$var wire 1 U9 VPB $end
+$var wire 1 V9 VPWR $end
+$var wire 1 W9 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o2111ai_1 $end
+$var wire 1 X9 A1 $end
+$var wire 1 Y9 A2 $end
+$var wire 1 Z9 B1 $end
+$var wire 1 [9 C1 $end
+$var wire 1 \9 D1 $end
+$var wire 1 ]9 VGND $end
+$var wire 1 ^9 VNB $end
+$var wire 1 _9 VPB $end
+$var wire 1 `9 VPWR $end
+$var wire 1 a9 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o2111ai_2 $end
+$var wire 1 b9 A1 $end
+$var wire 1 c9 A2 $end
+$var wire 1 d9 B1 $end
+$var wire 1 e9 C1 $end
+$var wire 1 f9 D1 $end
+$var wire 1 g9 VGND $end
+$var wire 1 h9 VNB $end
+$var wire 1 i9 VPB $end
+$var wire 1 j9 VPWR $end
+$var wire 1 k9 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o2111ai_4 $end
+$var wire 1 l9 A1 $end
+$var wire 1 m9 A2 $end
+$var wire 1 n9 B1 $end
+$var wire 1 o9 C1 $end
+$var wire 1 p9 D1 $end
+$var wire 1 q9 VGND $end
+$var wire 1 r9 VNB $end
+$var wire 1 s9 VPB $end
+$var wire 1 t9 VPWR $end
+$var wire 1 u9 Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o211a_1 $end
+$var wire 1 v9 A1 $end
+$var wire 1 w9 A2 $end
+$var wire 1 x9 B1 $end
+$var wire 1 y9 C1 $end
+$var wire 1 z9 VGND $end
+$var wire 1 {9 VNB $end
+$var wire 1 |9 VPB $end
+$var wire 1 }9 VPWR $end
+$var wire 1 ~9 X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o211a_2 $end
+$var wire 1 !: A1 $end
+$var wire 1 ": A2 $end
+$var wire 1 #: B1 $end
+$var wire 1 $: C1 $end
+$var wire 1 %: VGND $end
+$var wire 1 &: VNB $end
+$var wire 1 ': VPB $end
+$var wire 1 (: VPWR $end
+$var wire 1 ): X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o211a_4 $end
+$var wire 1 *: A1 $end
+$var wire 1 +: A2 $end
+$var wire 1 ,: B1 $end
+$var wire 1 -: C1 $end
+$var wire 1 .: VGND $end
+$var wire 1 /: VNB $end
+$var wire 1 0: VPB $end
+$var wire 1 1: VPWR $end
+$var wire 1 2: X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o211ai_1 $end
+$var wire 1 3: A1 $end
+$var wire 1 4: A2 $end
+$var wire 1 5: B1 $end
+$var wire 1 6: C1 $end
+$var wire 1 7: VGND $end
+$var wire 1 8: VNB $end
+$var wire 1 9: VPB $end
+$var wire 1 :: VPWR $end
+$var wire 1 ;: Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o211ai_2 $end
+$var wire 1 <: A1 $end
+$var wire 1 =: A2 $end
+$var wire 1 >: B1 $end
+$var wire 1 ?: C1 $end
+$var wire 1 @: VGND $end
+$var wire 1 A: VNB $end
+$var wire 1 B: VPB $end
+$var wire 1 C: VPWR $end
+$var wire 1 D: Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o211ai_4 $end
+$var wire 1 E: A1 $end
+$var wire 1 F: A2 $end
+$var wire 1 G: B1 $end
+$var wire 1 H: C1 $end
+$var wire 1 I: VGND $end
+$var wire 1 J: VNB $end
+$var wire 1 K: VPB $end
+$var wire 1 L: VPWR $end
+$var wire 1 M: Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o21a_1 $end
+$var wire 1 N: A1 $end
+$var wire 1 O: A2 $end
+$var wire 1 P: B1 $end
+$var wire 1 Q: VGND $end
+$var wire 1 R: VNB $end
+$var wire 1 S: VPB $end
+$var wire 1 T: VPWR $end
+$var wire 1 U: X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o21a_2 $end
+$var wire 1 V: A1 $end
+$var wire 1 W: A2 $end
+$var wire 1 X: B1 $end
+$var wire 1 Y: VGND $end
+$var wire 1 Z: VNB $end
+$var wire 1 [: VPB $end
+$var wire 1 \: VPWR $end
+$var wire 1 ]: X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o21a_4 $end
+$var wire 1 ^: A1 $end
+$var wire 1 _: A2 $end
+$var wire 1 `: B1 $end
+$var wire 1 a: VGND $end
+$var wire 1 b: VNB $end
+$var wire 1 c: VPB $end
+$var wire 1 d: VPWR $end
+$var wire 1 e: X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o21ai_0 $end
+$var wire 1 f: A1 $end
+$var wire 1 g: A2 $end
+$var wire 1 h: B1 $end
+$var wire 1 i: VGND $end
+$var wire 1 j: VNB $end
+$var wire 1 k: VPB $end
+$var wire 1 l: VPWR $end
+$var wire 1 m: Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o21ai_1 $end
+$var wire 1 n: A1 $end
+$var wire 1 o: A2 $end
+$var wire 1 p: B1 $end
+$var wire 1 q: VGND $end
+$var wire 1 r: VNB $end
+$var wire 1 s: VPB $end
+$var wire 1 t: VPWR $end
+$var wire 1 u: Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o21ai_2 $end
+$var wire 1 v: A1 $end
+$var wire 1 w: A2 $end
+$var wire 1 x: B1 $end
+$var wire 1 y: VGND $end
+$var wire 1 z: VNB $end
+$var wire 1 {: VPB $end
+$var wire 1 |: VPWR $end
+$var wire 1 }: Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o21ai_4 $end
+$var wire 1 ~: A1 $end
+$var wire 1 !; A2 $end
+$var wire 1 "; B1 $end
+$var wire 1 #; VGND $end
+$var wire 1 $; VNB $end
+$var wire 1 %; VPB $end
+$var wire 1 &; VPWR $end
+$var wire 1 '; Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o21ba_1 $end
+$var wire 1 (; A1 $end
+$var wire 1 ); A2 $end
+$var wire 1 *; B1_N $end
+$var wire 1 +; VGND $end
+$var wire 1 ,; VNB $end
+$var wire 1 -; VPB $end
+$var wire 1 .; VPWR $end
+$var wire 1 /; X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o21ba_2 $end
+$var wire 1 0; A1 $end
+$var wire 1 1; A2 $end
+$var wire 1 2; B1_N $end
+$var wire 1 3; VGND $end
+$var wire 1 4; VNB $end
+$var wire 1 5; VPB $end
+$var wire 1 6; VPWR $end
+$var wire 1 7; X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o21ba_4 $end
+$var wire 1 8; A1 $end
+$var wire 1 9; A2 $end
+$var wire 1 :; B1_N $end
+$var wire 1 ;; VGND $end
+$var wire 1 <; VNB $end
+$var wire 1 =; VPB $end
+$var wire 1 >; VPWR $end
+$var wire 1 ?; X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o21bai_1 $end
+$var wire 1 @; A1 $end
+$var wire 1 A; A2 $end
+$var wire 1 B; B1_N $end
+$var wire 1 C; VGND $end
+$var wire 1 D; VNB $end
+$var wire 1 E; VPB $end
+$var wire 1 F; VPWR $end
+$var wire 1 G; Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o21bai_2 $end
+$var wire 1 H; A1 $end
+$var wire 1 I; A2 $end
+$var wire 1 J; B1_N $end
+$var wire 1 K; VGND $end
+$var wire 1 L; VNB $end
+$var wire 1 M; VPB $end
+$var wire 1 N; VPWR $end
+$var wire 1 O; Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o21bai_4 $end
+$var wire 1 P; A1 $end
+$var wire 1 Q; A2 $end
+$var wire 1 R; B1_N $end
+$var wire 1 S; VGND $end
+$var wire 1 T; VNB $end
+$var wire 1 U; VPB $end
+$var wire 1 V; VPWR $end
+$var wire 1 W; Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o221a_1 $end
+$var wire 1 X; A1 $end
+$var wire 1 Y; A2 $end
+$var wire 1 Z; B1 $end
+$var wire 1 [; B2 $end
+$var wire 1 \; C1 $end
+$var wire 1 ]; VGND $end
+$var wire 1 ^; VNB $end
+$var wire 1 _; VPB $end
+$var wire 1 `; VPWR $end
+$var wire 1 a; X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o221a_2 $end
+$var wire 1 b; A1 $end
+$var wire 1 c; A2 $end
+$var wire 1 d; B1 $end
+$var wire 1 e; B2 $end
+$var wire 1 f; C1 $end
+$var wire 1 g; VGND $end
+$var wire 1 h; VNB $end
+$var wire 1 i; VPB $end
+$var wire 1 j; VPWR $end
+$var wire 1 k; X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o221a_4 $end
+$var wire 1 l; A1 $end
+$var wire 1 m; A2 $end
+$var wire 1 n; B1 $end
+$var wire 1 o; B2 $end
+$var wire 1 p; C1 $end
+$var wire 1 q; VGND $end
+$var wire 1 r; VNB $end
+$var wire 1 s; VPB $end
+$var wire 1 t; VPWR $end
+$var wire 1 u; X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o221ai_1 $end
+$var wire 1 v; A1 $end
+$var wire 1 w; A2 $end
+$var wire 1 x; B1 $end
+$var wire 1 y; B2 $end
+$var wire 1 z; C1 $end
+$var wire 1 {; VGND $end
+$var wire 1 |; VNB $end
+$var wire 1 }; VPB $end
+$var wire 1 ~; VPWR $end
+$var wire 1 !< Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o221ai_2 $end
+$var wire 1 "< A1 $end
+$var wire 1 #< A2 $end
+$var wire 1 $< B1 $end
+$var wire 1 %< B2 $end
+$var wire 1 &< C1 $end
+$var wire 1 '< VGND $end
+$var wire 1 (< VNB $end
+$var wire 1 )< VPB $end
+$var wire 1 *< VPWR $end
+$var wire 1 +< Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o221ai_4 $end
+$var wire 1 ,< A1 $end
+$var wire 1 -< A2 $end
+$var wire 1 .< B1 $end
+$var wire 1 /< B2 $end
+$var wire 1 0< C1 $end
+$var wire 1 1< VGND $end
+$var wire 1 2< VNB $end
+$var wire 1 3< VPB $end
+$var wire 1 4< VPWR $end
+$var wire 1 5< Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o22a_1 $end
+$var wire 1 6< A1 $end
+$var wire 1 7< A2 $end
+$var wire 1 8< B1 $end
+$var wire 1 9< B2 $end
+$var wire 1 :< VGND $end
+$var wire 1 ;< VNB $end
+$var wire 1 << VPB $end
+$var wire 1 =< VPWR $end
+$var wire 1 >< X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o22a_2 $end
+$var wire 1 ?< A1 $end
+$var wire 1 @< A2 $end
+$var wire 1 A< B1 $end
+$var wire 1 B< B2 $end
+$var wire 1 C< VGND $end
+$var wire 1 D< VNB $end
+$var wire 1 E< VPB $end
+$var wire 1 F< VPWR $end
+$var wire 1 G< X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o22a_4 $end
+$var wire 1 H< A1 $end
+$var wire 1 I< A2 $end
+$var wire 1 J< B1 $end
+$var wire 1 K< B2 $end
+$var wire 1 L< VGND $end
+$var wire 1 M< VNB $end
+$var wire 1 N< VPB $end
+$var wire 1 O< VPWR $end
+$var wire 1 P< X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o22ai_1 $end
+$var wire 1 Q< A1 $end
+$var wire 1 R< A2 $end
+$var wire 1 S< B1 $end
+$var wire 1 T< B2 $end
+$var wire 1 U< VGND $end
+$var wire 1 V< VNB $end
+$var wire 1 W< VPB $end
+$var wire 1 X< VPWR $end
+$var wire 1 Y< Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o22ai_2 $end
+$var wire 1 Z< A1 $end
+$var wire 1 [< A2 $end
+$var wire 1 \< B1 $end
+$var wire 1 ]< B2 $end
+$var wire 1 ^< VGND $end
+$var wire 1 _< VNB $end
+$var wire 1 `< VPB $end
+$var wire 1 a< VPWR $end
+$var wire 1 b< Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o22ai_4 $end
+$var wire 1 c< A1 $end
+$var wire 1 d< A2 $end
+$var wire 1 e< B1 $end
+$var wire 1 f< B2 $end
+$var wire 1 g< VGND $end
+$var wire 1 h< VNB $end
+$var wire 1 i< VPB $end
+$var wire 1 j< VPWR $end
+$var wire 1 k< Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o2bb2a_1 $end
+$var wire 1 l< A1_N $end
+$var wire 1 m< A2_N $end
+$var wire 1 n< B1 $end
+$var wire 1 o< B2 $end
+$var wire 1 p< VGND $end
+$var wire 1 q< VNB $end
+$var wire 1 r< VPB $end
+$var wire 1 s< VPWR $end
+$var wire 1 t< X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o2bb2a_2 $end
+$var wire 1 u< A1_N $end
+$var wire 1 v< A2_N $end
+$var wire 1 w< B1 $end
+$var wire 1 x< B2 $end
+$var wire 1 y< VGND $end
+$var wire 1 z< VNB $end
+$var wire 1 {< VPB $end
+$var wire 1 |< VPWR $end
+$var wire 1 }< X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o2bb2a_4 $end
+$var wire 1 ~< A1_N $end
+$var wire 1 != A2_N $end
+$var wire 1 "= B1 $end
+$var wire 1 #= B2 $end
+$var wire 1 $= VGND $end
+$var wire 1 %= VNB $end
+$var wire 1 &= VPB $end
+$var wire 1 '= VPWR $end
+$var wire 1 (= X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o2bb2ai_1 $end
+$var wire 1 )= A1_N $end
+$var wire 1 *= A2_N $end
+$var wire 1 += B1 $end
+$var wire 1 ,= B2 $end
+$var wire 1 -= VGND $end
+$var wire 1 .= VNB $end
+$var wire 1 /= VPB $end
+$var wire 1 0= VPWR $end
+$var wire 1 1= Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o2bb2ai_2 $end
+$var wire 1 2= A1_N $end
+$var wire 1 3= A2_N $end
+$var wire 1 4= B1 $end
+$var wire 1 5= B2 $end
+$var wire 1 6= VGND $end
+$var wire 1 7= VNB $end
+$var wire 1 8= VPB $end
+$var wire 1 9= VPWR $end
+$var wire 1 := Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o2bb2ai_4 $end
+$var wire 1 ;= A1_N $end
+$var wire 1 <= A2_N $end
+$var wire 1 == B1 $end
+$var wire 1 >= B2 $end
+$var wire 1 ?= VGND $end
+$var wire 1 @= VNB $end
+$var wire 1 A= VPB $end
+$var wire 1 B= VPWR $end
+$var wire 1 C= Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o311a_1 $end
+$var wire 1 D= A1 $end
+$var wire 1 E= A2 $end
+$var wire 1 F= A3 $end
+$var wire 1 G= B1 $end
+$var wire 1 H= C1 $end
+$var wire 1 I= VGND $end
+$var wire 1 J= VNB $end
+$var wire 1 K= VPB $end
+$var wire 1 L= VPWR $end
+$var wire 1 M= X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o311a_2 $end
+$var wire 1 N= A1 $end
+$var wire 1 O= A2 $end
+$var wire 1 P= A3 $end
+$var wire 1 Q= B1 $end
+$var wire 1 R= C1 $end
+$var wire 1 S= VGND $end
+$var wire 1 T= VNB $end
+$var wire 1 U= VPB $end
+$var wire 1 V= VPWR $end
+$var wire 1 W= X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o311a_4 $end
+$var wire 1 X= A1 $end
+$var wire 1 Y= A2 $end
+$var wire 1 Z= A3 $end
+$var wire 1 [= B1 $end
+$var wire 1 \= C1 $end
+$var wire 1 ]= VGND $end
+$var wire 1 ^= VNB $end
+$var wire 1 _= VPB $end
+$var wire 1 `= VPWR $end
+$var wire 1 a= X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o311ai_0 $end
+$var wire 1 b= A1 $end
+$var wire 1 c= A2 $end
+$var wire 1 d= A3 $end
+$var wire 1 e= B1 $end
+$var wire 1 f= C1 $end
+$var wire 1 g= VGND $end
+$var wire 1 h= VNB $end
+$var wire 1 i= VPB $end
+$var wire 1 j= VPWR $end
+$var wire 1 k= Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o311ai_1 $end
+$var wire 1 l= A1 $end
+$var wire 1 m= A2 $end
+$var wire 1 n= A3 $end
+$var wire 1 o= B1 $end
+$var wire 1 p= C1 $end
+$var wire 1 q= VGND $end
+$var wire 1 r= VNB $end
+$var wire 1 s= VPB $end
+$var wire 1 t= VPWR $end
+$var wire 1 u= Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o311ai_2 $end
+$var wire 1 v= A1 $end
+$var wire 1 w= A2 $end
+$var wire 1 x= A3 $end
+$var wire 1 y= B1 $end
+$var wire 1 z= C1 $end
+$var wire 1 {= VGND $end
+$var wire 1 |= VNB $end
+$var wire 1 }= VPB $end
+$var wire 1 ~= VPWR $end
+$var wire 1 !> Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o311ai_4 $end
+$var wire 1 "> A1 $end
+$var wire 1 #> A2 $end
+$var wire 1 $> A3 $end
+$var wire 1 %> B1 $end
+$var wire 1 &> C1 $end
+$var wire 1 '> VGND $end
+$var wire 1 (> VNB $end
+$var wire 1 )> VPB $end
+$var wire 1 *> VPWR $end
+$var wire 1 +> Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o31a_1 $end
+$var wire 1 ,> A1 $end
+$var wire 1 -> A2 $end
+$var wire 1 .> A3 $end
+$var wire 1 /> B1 $end
+$var wire 1 0> VGND $end
+$var wire 1 1> VNB $end
+$var wire 1 2> VPB $end
+$var wire 1 3> VPWR $end
+$var wire 1 4> X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o31a_2 $end
+$var wire 1 5> A1 $end
+$var wire 1 6> A2 $end
+$var wire 1 7> A3 $end
+$var wire 1 8> B1 $end
+$var wire 1 9> VGND $end
+$var wire 1 :> VNB $end
+$var wire 1 ;> VPB $end
+$var wire 1 <> VPWR $end
+$var wire 1 => X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o31a_4 $end
+$var wire 1 >> A1 $end
+$var wire 1 ?> A2 $end
+$var wire 1 @> A3 $end
+$var wire 1 A> B1 $end
+$var wire 1 B> VGND $end
+$var wire 1 C> VNB $end
+$var wire 1 D> VPB $end
+$var wire 1 E> VPWR $end
+$var wire 1 F> X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o31ai_1 $end
+$var wire 1 G> A1 $end
+$var wire 1 H> A2 $end
+$var wire 1 I> A3 $end
+$var wire 1 J> B1 $end
+$var wire 1 K> VGND $end
+$var wire 1 L> VNB $end
+$var wire 1 M> VPB $end
+$var wire 1 N> VPWR $end
+$var wire 1 O> Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o31ai_2 $end
+$var wire 1 P> A1 $end
+$var wire 1 Q> A2 $end
+$var wire 1 R> A3 $end
+$var wire 1 S> B1 $end
+$var wire 1 T> VGND $end
+$var wire 1 U> VNB $end
+$var wire 1 V> VPB $end
+$var wire 1 W> VPWR $end
+$var wire 1 X> Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o31ai_4 $end
+$var wire 1 Y> A1 $end
+$var wire 1 Z> A2 $end
+$var wire 1 [> A3 $end
+$var wire 1 \> B1 $end
+$var wire 1 ]> VGND $end
+$var wire 1 ^> VNB $end
+$var wire 1 _> VPB $end
+$var wire 1 `> VPWR $end
+$var wire 1 a> Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o32a_1 $end
+$var wire 1 b> A1 $end
+$var wire 1 c> A2 $end
+$var wire 1 d> A3 $end
+$var wire 1 e> B1 $end
+$var wire 1 f> B2 $end
+$var wire 1 g> VGND $end
+$var wire 1 h> VNB $end
+$var wire 1 i> VPB $end
+$var wire 1 j> VPWR $end
+$var wire 1 k> X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o32a_2 $end
+$var wire 1 l> A1 $end
+$var wire 1 m> A2 $end
+$var wire 1 n> A3 $end
+$var wire 1 o> B1 $end
+$var wire 1 p> B2 $end
+$var wire 1 q> VGND $end
+$var wire 1 r> VNB $end
+$var wire 1 s> VPB $end
+$var wire 1 t> VPWR $end
+$var wire 1 u> X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o32a_4 $end
+$var wire 1 v> A1 $end
+$var wire 1 w> A2 $end
+$var wire 1 x> A3 $end
+$var wire 1 y> B1 $end
+$var wire 1 z> B2 $end
+$var wire 1 {> VGND $end
+$var wire 1 |> VNB $end
+$var wire 1 }> VPB $end
+$var wire 1 ~> VPWR $end
+$var wire 1 !? X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o32ai_1 $end
+$var wire 1 "? A1 $end
+$var wire 1 #? A2 $end
+$var wire 1 $? A3 $end
+$var wire 1 %? B1 $end
+$var wire 1 &? B2 $end
+$var wire 1 '? VGND $end
+$var wire 1 (? VNB $end
+$var wire 1 )? VPB $end
+$var wire 1 *? VPWR $end
+$var wire 1 +? Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o32ai_2 $end
+$var wire 1 ,? A1 $end
+$var wire 1 -? A2 $end
+$var wire 1 .? A3 $end
+$var wire 1 /? B1 $end
+$var wire 1 0? B2 $end
+$var wire 1 1? VGND $end
+$var wire 1 2? VNB $end
+$var wire 1 3? VPB $end
+$var wire 1 4? VPWR $end
+$var wire 1 5? Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o32ai_4 $end
+$var wire 1 6? A1 $end
+$var wire 1 7? A2 $end
+$var wire 1 8? A3 $end
+$var wire 1 9? B1 $end
+$var wire 1 :? B2 $end
+$var wire 1 ;? VGND $end
+$var wire 1 <? VNB $end
+$var wire 1 =? VPB $end
+$var wire 1 >? VPWR $end
+$var wire 1 ?? Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o41a_1 $end
+$var wire 1 @? A1 $end
+$var wire 1 A? A2 $end
+$var wire 1 B? A3 $end
+$var wire 1 C? A4 $end
+$var wire 1 D? B1 $end
+$var wire 1 E? VGND $end
+$var wire 1 F? VNB $end
+$var wire 1 G? VPB $end
+$var wire 1 H? VPWR $end
+$var wire 1 I? X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o41a_2 $end
+$var wire 1 J? A1 $end
+$var wire 1 K? A2 $end
+$var wire 1 L? A3 $end
+$var wire 1 M? A4 $end
+$var wire 1 N? B1 $end
+$var wire 1 O? VGND $end
+$var wire 1 P? VNB $end
+$var wire 1 Q? VPB $end
+$var wire 1 R? VPWR $end
+$var wire 1 S? X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o41a_4 $end
+$var wire 1 T? A1 $end
+$var wire 1 U? A2 $end
+$var wire 1 V? A3 $end
+$var wire 1 W? A4 $end
+$var wire 1 X? B1 $end
+$var wire 1 Y? VGND $end
+$var wire 1 Z? VNB $end
+$var wire 1 [? VPB $end
+$var wire 1 \? VPWR $end
+$var wire 1 ]? X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o41ai_1 $end
+$var wire 1 ^? A1 $end
+$var wire 1 _? A2 $end
+$var wire 1 `? A3 $end
+$var wire 1 a? A4 $end
+$var wire 1 b? B1 $end
+$var wire 1 c? VGND $end
+$var wire 1 d? VNB $end
+$var wire 1 e? VPB $end
+$var wire 1 f? VPWR $end
+$var wire 1 g? Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o41ai_2 $end
+$var wire 1 h? A1 $end
+$var wire 1 i? A2 $end
+$var wire 1 j? A3 $end
+$var wire 1 k? A4 $end
+$var wire 1 l? B1 $end
+$var wire 1 m? VGND $end
+$var wire 1 n? VNB $end
+$var wire 1 o? VPB $end
+$var wire 1 p? VPWR $end
+$var wire 1 q? Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__o41ai_4 $end
+$var wire 1 r? A1 $end
+$var wire 1 s? A2 $end
+$var wire 1 t? A3 $end
+$var wire 1 u? A4 $end
+$var wire 1 v? B1 $end
+$var wire 1 w? VGND $end
+$var wire 1 x? VNB $end
+$var wire 1 y? VPB $end
+$var wire 1 z? VPWR $end
+$var wire 1 {? Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__or2_0 $end
+$var wire 1 |? A $end
+$var wire 1 }? B $end
+$var wire 1 ~? VGND $end
+$var wire 1 !@ VNB $end
+$var wire 1 "@ VPB $end
+$var wire 1 #@ VPWR $end
+$var wire 1 $@ X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__or2_1 $end
+$var wire 1 %@ A $end
+$var wire 1 &@ B $end
+$var wire 1 '@ VGND $end
+$var wire 1 (@ VNB $end
+$var wire 1 )@ VPB $end
+$var wire 1 *@ VPWR $end
+$var wire 1 +@ X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__or2_2 $end
+$var wire 1 ,@ A $end
+$var wire 1 -@ B $end
+$var wire 1 .@ VGND $end
+$var wire 1 /@ VNB $end
+$var wire 1 0@ VPB $end
+$var wire 1 1@ VPWR $end
+$var wire 1 2@ X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__or2_4 $end
+$var wire 1 3@ A $end
+$var wire 1 4@ B $end
+$var wire 1 5@ VGND $end
+$var wire 1 6@ VNB $end
+$var wire 1 7@ VPB $end
+$var wire 1 8@ VPWR $end
+$var wire 1 9@ X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__or2b_1 $end
+$var wire 1 :@ A $end
+$var wire 1 ;@ B_N $end
+$var wire 1 <@ VGND $end
+$var wire 1 =@ VNB $end
+$var wire 1 >@ VPB $end
+$var wire 1 ?@ VPWR $end
+$var wire 1 @@ X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__or2b_2 $end
+$var wire 1 A@ A $end
+$var wire 1 B@ B_N $end
+$var wire 1 C@ VGND $end
+$var wire 1 D@ VNB $end
+$var wire 1 E@ VPB $end
+$var wire 1 F@ VPWR $end
+$var wire 1 G@ X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__or2b_4 $end
+$var wire 1 H@ A $end
+$var wire 1 I@ B_N $end
+$var wire 1 J@ VGND $end
+$var wire 1 K@ VNB $end
+$var wire 1 L@ VPB $end
+$var wire 1 M@ VPWR $end
+$var wire 1 N@ X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__or3_1 $end
+$var wire 1 O@ A $end
+$var wire 1 P@ B $end
+$var wire 1 Q@ C $end
+$var wire 1 R@ VGND $end
+$var wire 1 S@ VNB $end
+$var wire 1 T@ VPB $end
+$var wire 1 U@ VPWR $end
+$var wire 1 V@ X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__or3_2 $end
+$var wire 1 W@ A $end
+$var wire 1 X@ B $end
+$var wire 1 Y@ C $end
+$var wire 1 Z@ VGND $end
+$var wire 1 [@ VNB $end
+$var wire 1 \@ VPB $end
+$var wire 1 ]@ VPWR $end
+$var wire 1 ^@ X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__or3_4 $end
+$var wire 1 _@ A $end
+$var wire 1 `@ B $end
+$var wire 1 a@ C $end
+$var wire 1 b@ VGND $end
+$var wire 1 c@ VNB $end
+$var wire 1 d@ VPB $end
+$var wire 1 e@ VPWR $end
+$var wire 1 f@ X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__or3b_1 $end
+$var wire 1 g@ A $end
+$var wire 1 h@ B $end
+$var wire 1 i@ C_N $end
+$var wire 1 j@ VGND $end
+$var wire 1 k@ VNB $end
+$var wire 1 l@ VPB $end
+$var wire 1 m@ VPWR $end
+$var wire 1 n@ X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__or3b_2 $end
+$var wire 1 o@ A $end
+$var wire 1 p@ B $end
+$var wire 1 q@ C_N $end
+$var wire 1 r@ VGND $end
+$var wire 1 s@ VNB $end
+$var wire 1 t@ VPB $end
+$var wire 1 u@ VPWR $end
+$var wire 1 v@ X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__or3b_4 $end
+$var wire 1 w@ A $end
+$var wire 1 x@ B $end
+$var wire 1 y@ C_N $end
+$var wire 1 z@ VGND $end
+$var wire 1 {@ VNB $end
+$var wire 1 |@ VPB $end
+$var wire 1 }@ VPWR $end
+$var wire 1 ~@ X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__or4_1 $end
+$var wire 1 !A A $end
+$var wire 1 "A B $end
+$var wire 1 #A C $end
+$var wire 1 $A D $end
+$var wire 1 %A VGND $end
+$var wire 1 &A VNB $end
+$var wire 1 'A VPB $end
+$var wire 1 (A VPWR $end
+$var wire 1 )A X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__or4_2 $end
+$var wire 1 *A A $end
+$var wire 1 +A B $end
+$var wire 1 ,A C $end
+$var wire 1 -A D $end
+$var wire 1 .A VGND $end
+$var wire 1 /A VNB $end
+$var wire 1 0A VPB $end
+$var wire 1 1A VPWR $end
+$var wire 1 2A X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__or4_4 $end
+$var wire 1 3A A $end
+$var wire 1 4A B $end
+$var wire 1 5A C $end
+$var wire 1 6A D $end
+$var wire 1 7A VGND $end
+$var wire 1 8A VNB $end
+$var wire 1 9A VPB $end
+$var wire 1 :A VPWR $end
+$var wire 1 ;A X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__or4b_1 $end
+$var wire 1 <A A $end
+$var wire 1 =A B $end
+$var wire 1 >A C $end
+$var wire 1 ?A D_N $end
+$var wire 1 @A VGND $end
+$var wire 1 AA VNB $end
+$var wire 1 BA VPB $end
+$var wire 1 CA VPWR $end
+$var wire 1 DA X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__or4b_2 $end
+$var wire 1 EA A $end
+$var wire 1 FA B $end
+$var wire 1 GA C $end
+$var wire 1 HA D_N $end
+$var wire 1 IA VGND $end
+$var wire 1 JA VNB $end
+$var wire 1 KA VPB $end
+$var wire 1 LA VPWR $end
+$var wire 1 MA X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__or4b_4 $end
+$var wire 1 NA A $end
+$var wire 1 OA B $end
+$var wire 1 PA C $end
+$var wire 1 QA D_N $end
+$var wire 1 RA VGND $end
+$var wire 1 SA VNB $end
+$var wire 1 TA VPB $end
+$var wire 1 UA VPWR $end
+$var wire 1 VA X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__or4bb_1 $end
+$var wire 1 WA A $end
+$var wire 1 XA B $end
+$var wire 1 YA C_N $end
+$var wire 1 ZA D_N $end
+$var wire 1 [A VGND $end
+$var wire 1 \A VNB $end
+$var wire 1 ]A VPB $end
+$var wire 1 ^A VPWR $end
+$var wire 1 _A X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__or4bb_2 $end
+$var wire 1 `A A $end
+$var wire 1 aA B $end
+$var wire 1 bA C_N $end
+$var wire 1 cA D_N $end
+$var wire 1 dA VGND $end
+$var wire 1 eA VNB $end
+$var wire 1 fA VPB $end
+$var wire 1 gA VPWR $end
+$var wire 1 hA X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__or4bb_4 $end
+$var wire 1 iA A $end
+$var wire 1 jA B $end
+$var wire 1 kA C_N $end
+$var wire 1 lA D_N $end
+$var wire 1 mA VGND $end
+$var wire 1 nA VNB $end
+$var wire 1 oA VPB $end
+$var wire 1 pA VPWR $end
+$var wire 1 qA X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__probe_p_8 $end
+$var wire 1 rA A $end
+$var wire 1 sA VGND $end
+$var wire 1 tA VNB $end
+$var wire 1 uA VPB $end
+$var wire 1 vA VPWR $end
+$var wire 1 wA X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__probec_p_8 $end
+$var wire 1 xA A $end
+$var wire 1 yA VGND $end
+$var wire 1 zA VNB $end
+$var wire 1 {A VPB $end
+$var wire 1 |A VPWR $end
+$var wire 1 }A X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__sdfbbn_1 $end
+$var wire 1 ~A CLK_N $end
+$var wire 1 !B D $end
+$var wire 1 "B RESET_B $end
+$var wire 1 #B SCD $end
+$var wire 1 $B SCE $end
+$var wire 1 %B SET_B $end
+$var wire 1 &B VGND $end
+$var wire 1 'B VNB $end
+$var wire 1 (B VPB $end
+$var wire 1 )B VPWR $end
+$var wire 1 *B Q_N $end
+$var wire 1 +B Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__sdfbbn_2 $end
+$var wire 1 ,B CLK_N $end
+$var wire 1 -B D $end
+$var wire 1 .B RESET_B $end
+$var wire 1 /B SCD $end
+$var wire 1 0B SCE $end
+$var wire 1 1B SET_B $end
+$var wire 1 2B VGND $end
+$var wire 1 3B VNB $end
+$var wire 1 4B VPB $end
+$var wire 1 5B VPWR $end
+$var wire 1 6B Q_N $end
+$var wire 1 7B Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__sdfbbp_1 $end
+$var wire 1 8B CLK $end
+$var wire 1 9B D $end
+$var wire 1 :B RESET_B $end
+$var wire 1 ;B SCD $end
+$var wire 1 <B SCE $end
+$var wire 1 =B SET_B $end
+$var wire 1 >B VGND $end
+$var wire 1 ?B VNB $end
+$var wire 1 @B VPB $end
+$var wire 1 AB VPWR $end
+$var wire 1 BB Q_N $end
+$var wire 1 CB Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__sdfrbp_1 $end
+$var wire 1 DB CLK $end
+$var wire 1 EB D $end
+$var wire 1 FB RESET_B $end
+$var wire 1 GB SCD $end
+$var wire 1 HB SCE $end
+$var wire 1 IB VGND $end
+$var wire 1 JB VNB $end
+$var wire 1 KB VPB $end
+$var wire 1 LB VPWR $end
+$var wire 1 MB Q_N $end
+$var wire 1 NB Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__sdfrbp_2 $end
+$var wire 1 OB CLK $end
+$var wire 1 PB D $end
+$var wire 1 QB RESET_B $end
+$var wire 1 RB SCD $end
+$var wire 1 SB SCE $end
+$var wire 1 TB VGND $end
+$var wire 1 UB VNB $end
+$var wire 1 VB VPB $end
+$var wire 1 WB VPWR $end
+$var wire 1 XB Q_N $end
+$var wire 1 YB Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__sdfrtn_1 $end
+$var wire 1 ZB CLK_N $end
+$var wire 1 [B D $end
+$var wire 1 \B RESET_B $end
+$var wire 1 ]B SCD $end
+$var wire 1 ^B SCE $end
+$var wire 1 _B VGND $end
+$var wire 1 `B VNB $end
+$var wire 1 aB VPB $end
+$var wire 1 bB VPWR $end
+$var wire 1 cB Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__sdfrtp_1 $end
+$var wire 1 dB CLK $end
+$var wire 1 eB D $end
+$var wire 1 fB RESET_B $end
+$var wire 1 gB SCD $end
+$var wire 1 hB SCE $end
+$var wire 1 iB VGND $end
+$var wire 1 jB VNB $end
+$var wire 1 kB VPB $end
+$var wire 1 lB VPWR $end
+$var wire 1 mB Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__sdfrtp_2 $end
+$var wire 1 nB CLK $end
+$var wire 1 oB D $end
+$var wire 1 pB RESET_B $end
+$var wire 1 qB SCD $end
+$var wire 1 rB SCE $end
+$var wire 1 sB VGND $end
+$var wire 1 tB VNB $end
+$var wire 1 uB VPB $end
+$var wire 1 vB VPWR $end
+$var wire 1 wB Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__sdfrtp_4 $end
+$var wire 1 xB CLK $end
+$var wire 1 yB D $end
+$var wire 1 zB RESET_B $end
+$var wire 1 {B SCD $end
+$var wire 1 |B SCE $end
+$var wire 1 }B VGND $end
+$var wire 1 ~B VNB $end
+$var wire 1 !C VPB $end
+$var wire 1 "C VPWR $end
+$var wire 1 #C Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__sdfsbp_1 $end
+$var wire 1 $C CLK $end
+$var wire 1 %C D $end
+$var wire 1 &C SCD $end
+$var wire 1 'C SCE $end
+$var wire 1 (C SET_B $end
+$var wire 1 )C VGND $end
+$var wire 1 *C VNB $end
+$var wire 1 +C VPB $end
+$var wire 1 ,C VPWR $end
+$var wire 1 -C Q_N $end
+$var wire 1 .C Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__sdfsbp_2 $end
+$var wire 1 /C CLK $end
+$var wire 1 0C D $end
+$var wire 1 1C SCD $end
+$var wire 1 2C SCE $end
+$var wire 1 3C SET_B $end
+$var wire 1 4C VGND $end
+$var wire 1 5C VNB $end
+$var wire 1 6C VPB $end
+$var wire 1 7C VPWR $end
+$var wire 1 8C Q_N $end
+$var wire 1 9C Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__sdfstp_1 $end
+$var wire 1 :C CLK $end
+$var wire 1 ;C D $end
+$var wire 1 <C SCD $end
+$var wire 1 =C SCE $end
+$var wire 1 >C SET_B $end
+$var wire 1 ?C VGND $end
+$var wire 1 @C VNB $end
+$var wire 1 AC VPB $end
+$var wire 1 BC VPWR $end
+$var wire 1 CC Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__sdfstp_2 $end
+$var wire 1 DC CLK $end
+$var wire 1 EC D $end
+$var wire 1 FC SCD $end
+$var wire 1 GC SCE $end
+$var wire 1 HC SET_B $end
+$var wire 1 IC VGND $end
+$var wire 1 JC VNB $end
+$var wire 1 KC VPB $end
+$var wire 1 LC VPWR $end
+$var wire 1 MC Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__sdfstp_4 $end
+$var wire 1 NC CLK $end
+$var wire 1 OC D $end
+$var wire 1 PC SCD $end
+$var wire 1 QC SCE $end
+$var wire 1 RC SET_B $end
+$var wire 1 SC VGND $end
+$var wire 1 TC VNB $end
+$var wire 1 UC VPB $end
+$var wire 1 VC VPWR $end
+$var wire 1 WC Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__sdfxbp_1 $end
+$var wire 1 XC CLK $end
+$var wire 1 YC D $end
+$var wire 1 ZC SCD $end
+$var wire 1 [C SCE $end
+$var wire 1 \C VGND $end
+$var wire 1 ]C VNB $end
+$var wire 1 ^C VPB $end
+$var wire 1 _C VPWR $end
+$var wire 1 `C Q_N $end
+$var wire 1 aC Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__sdfxbp_2 $end
+$var wire 1 bC CLK $end
+$var wire 1 cC D $end
+$var wire 1 dC SCD $end
+$var wire 1 eC SCE $end
+$var wire 1 fC VGND $end
+$var wire 1 gC VNB $end
+$var wire 1 hC VPB $end
+$var wire 1 iC VPWR $end
+$var wire 1 jC Q_N $end
+$var wire 1 kC Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__sdfxtp_1 $end
+$var wire 1 lC CLK $end
+$var wire 1 mC D $end
+$var wire 1 nC SCD $end
+$var wire 1 oC SCE $end
+$var wire 1 pC VGND $end
+$var wire 1 qC VNB $end
+$var wire 1 rC VPB $end
+$var wire 1 sC VPWR $end
+$var wire 1 tC Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__sdfxtp_2 $end
+$var wire 1 uC CLK $end
+$var wire 1 vC D $end
+$var wire 1 wC SCD $end
+$var wire 1 xC SCE $end
+$var wire 1 yC VGND $end
+$var wire 1 zC VNB $end
+$var wire 1 {C VPB $end
+$var wire 1 |C VPWR $end
+$var wire 1 }C Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__sdfxtp_4 $end
+$var wire 1 ~C CLK $end
+$var wire 1 !D D $end
+$var wire 1 "D SCD $end
+$var wire 1 #D SCE $end
+$var wire 1 $D VGND $end
+$var wire 1 %D VNB $end
+$var wire 1 &D VPB $end
+$var wire 1 'D VPWR $end
+$var wire 1 (D Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__sdlclkp_1 $end
+$var wire 1 )D CLK $end
+$var wire 1 *D GATE $end
+$var wire 1 +D SCE $end
+$var wire 1 ,D VGND $end
+$var wire 1 -D VNB $end
+$var wire 1 .D VPB $end
+$var wire 1 /D VPWR $end
+$var wire 1 0D GCLK $end
+$upscope $end
+$scope module sky130_fd_sc_hd__sdlclkp_2 $end
+$var wire 1 1D CLK $end
+$var wire 1 2D GATE $end
+$var wire 1 3D SCE $end
+$var wire 1 4D VGND $end
+$var wire 1 5D VNB $end
+$var wire 1 6D VPB $end
+$var wire 1 7D VPWR $end
+$var wire 1 8D GCLK $end
+$upscope $end
+$scope module sky130_fd_sc_hd__sdlclkp_4 $end
+$var wire 1 9D CLK $end
+$var wire 1 :D GATE $end
+$var wire 1 ;D SCE $end
+$var wire 1 <D VGND $end
+$var wire 1 =D VNB $end
+$var wire 1 >D VPB $end
+$var wire 1 ?D VPWR $end
+$var wire 1 @D GCLK $end
+$upscope $end
+$scope module sky130_fd_sc_hd__sedfxbp_1 $end
+$var wire 1 AD CLK $end
+$var wire 1 BD D $end
+$var wire 1 CD DE $end
+$var wire 1 DD SCD $end
+$var wire 1 ED SCE $end
+$var wire 1 FD VGND $end
+$var wire 1 GD VNB $end
+$var wire 1 HD VPB $end
+$var wire 1 ID VPWR $end
+$var wire 1 JD Q_N $end
+$var wire 1 KD Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__sedfxbp_2 $end
+$var wire 1 LD CLK $end
+$var wire 1 MD D $end
+$var wire 1 ND DE $end
+$var wire 1 OD SCD $end
+$var wire 1 PD SCE $end
+$var wire 1 QD VGND $end
+$var wire 1 RD VNB $end
+$var wire 1 SD VPB $end
+$var wire 1 TD VPWR $end
+$var wire 1 UD Q_N $end
+$var wire 1 VD Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__sedfxtp_1 $end
+$var wire 1 WD CLK $end
+$var wire 1 XD D $end
+$var wire 1 YD DE $end
+$var wire 1 ZD SCD $end
+$var wire 1 [D SCE $end
+$var wire 1 \D VGND $end
+$var wire 1 ]D VNB $end
+$var wire 1 ^D VPB $end
+$var wire 1 _D VPWR $end
+$var wire 1 `D Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__sedfxtp_2 $end
+$var wire 1 aD CLK $end
+$var wire 1 bD D $end
+$var wire 1 cD DE $end
+$var wire 1 dD SCD $end
+$var wire 1 eD SCE $end
+$var wire 1 fD VGND $end
+$var wire 1 gD VNB $end
+$var wire 1 hD VPB $end
+$var wire 1 iD VPWR $end
+$var wire 1 jD Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__sedfxtp_4 $end
+$var wire 1 kD CLK $end
+$var wire 1 lD D $end
+$var wire 1 mD DE $end
+$var wire 1 nD SCD $end
+$var wire 1 oD SCE $end
+$var wire 1 pD VGND $end
+$var wire 1 qD VNB $end
+$var wire 1 rD VPB $end
+$var wire 1 sD VPWR $end
+$var wire 1 tD Q $end
+$upscope $end
+$scope module sky130_fd_sc_hd__tap_1 $end
+$var wire 1 uD VGND $end
+$var wire 1 vD VNB $end
+$var wire 1 wD VPB $end
+$var wire 1 xD VPWR $end
+$upscope $end
+$scope module sky130_fd_sc_hd__tap_2 $end
+$var wire 1 yD VGND $end
+$var wire 1 zD VNB $end
+$var wire 1 {D VPB $end
+$var wire 1 |D VPWR $end
+$upscope $end
+$scope module sky130_fd_sc_hd__tapvgnd2_1 $end
+$var wire 1 }D VGND $end
+$var wire 1 ~D VNB $end
+$var wire 1 !E VPB $end
+$var wire 1 "E VPWR $end
+$upscope $end
+$scope module sky130_fd_sc_hd__tapvgnd_1 $end
+$var wire 1 #E VGND $end
+$var wire 1 $E VNB $end
+$var wire 1 %E VPB $end
+$var wire 1 &E VPWR $end
+$upscope $end
+$scope module sky130_fd_sc_hd__tapvpwrvgnd_1 $end
+$var wire 1 'E VGND $end
+$var wire 1 (E VNB $end
+$var wire 1 )E VPB $end
+$var wire 1 *E VPWR $end
+$upscope $end
+$scope module sky130_fd_sc_hd__xnor2_1 $end
+$var wire 1 +E A $end
+$var wire 1 ,E B $end
+$var wire 1 -E VGND $end
+$var wire 1 .E VNB $end
+$var wire 1 /E VPB $end
+$var wire 1 0E VPWR $end
+$var wire 1 1E Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__xnor2_2 $end
+$var wire 1 2E A $end
+$var wire 1 3E B $end
+$var wire 1 4E VGND $end
+$var wire 1 5E VNB $end
+$var wire 1 6E VPB $end
+$var wire 1 7E VPWR $end
+$var wire 1 8E Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__xnor2_4 $end
+$var wire 1 9E A $end
+$var wire 1 :E B $end
+$var wire 1 ;E VGND $end
+$var wire 1 <E VNB $end
+$var wire 1 =E VPB $end
+$var wire 1 >E VPWR $end
+$var wire 1 ?E Y $end
+$upscope $end
+$scope module sky130_fd_sc_hd__xnor3_1 $end
+$var wire 1 @E A $end
+$var wire 1 AE B $end
+$var wire 1 BE C $end
+$var wire 1 CE VGND $end
+$var wire 1 DE VNB $end
+$var wire 1 EE VPB $end
+$var wire 1 FE VPWR $end
+$var wire 1 GE X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__xnor3_2 $end
+$var wire 1 HE A $end
+$var wire 1 IE B $end
+$var wire 1 JE C $end
+$var wire 1 KE VGND $end
+$var wire 1 LE VNB $end
+$var wire 1 ME VPB $end
+$var wire 1 NE VPWR $end
+$var wire 1 OE X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__xnor3_4 $end
+$var wire 1 PE A $end
+$var wire 1 QE B $end
+$var wire 1 RE C $end
+$var wire 1 SE VGND $end
+$var wire 1 TE VNB $end
+$var wire 1 UE VPB $end
+$var wire 1 VE VPWR $end
+$var wire 1 WE X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__xor2_1 $end
+$var wire 1 XE A $end
+$var wire 1 YE B $end
+$var wire 1 ZE VGND $end
+$var wire 1 [E VNB $end
+$var wire 1 \E VPB $end
+$var wire 1 ]E VPWR $end
+$var wire 1 ^E X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__xor2_2 $end
+$var wire 1 _E A $end
+$var wire 1 `E B $end
+$var wire 1 aE VGND $end
+$var wire 1 bE VNB $end
+$var wire 1 cE VPB $end
+$var wire 1 dE VPWR $end
+$var wire 1 eE X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__xor2_4 $end
+$var wire 1 fE A $end
+$var wire 1 gE B $end
+$var wire 1 hE VGND $end
+$var wire 1 iE VNB $end
+$var wire 1 jE VPB $end
+$var wire 1 kE VPWR $end
+$var wire 1 lE X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__xor3_2 $end
+$var wire 1 mE A $end
+$var wire 1 nE B $end
+$var wire 1 oE C $end
+$var wire 1 pE VGND $end
+$var wire 1 qE VNB $end
+$var wire 1 rE VPB $end
+$var wire 1 sE VPWR $end
+$var wire 1 tE X $end
+$upscope $end
+$scope module sky130_fd_sc_hd__xor3_4 $end
+$var wire 1 uE A $end
+$var wire 1 vE B $end
+$var wire 1 wE C $end
+$var wire 1 xE VGND $end
+$var wire 1 yE VNB $end
+$var wire 1 zE VPB $end
+$var wire 1 {E VPWR $end
+$var wire 1 |E X $end
+$upscope $end
+$scope module test $end
+$var wire 32 }E sum [31:0] $end
+$var wire 1 ~E cout $end
+$var reg 32 !F a [31:0] $end
+$var reg 32 "F b [31:0] $end
+$var integer 32 #F i [31:0] $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 #F
+b0 "F
+b0 !F
+0~E
+b0 }E
+x|E
+1{E
+1zE
+0yE
+0xE
+zwE
+zvE
+zuE
+xtE
+1sE
+1rE
+0qE
+0pE
+zoE
+znE
+zmE
+xlE
+1kE
+1jE
+0iE
+0hE
+zgE
+zfE
+xeE
+1dE
+1cE
+0bE
+0aE
+z`E
+z_E
+x^E
+1]E
+1\E
+0[E
+0ZE
+zYE
+zXE
+xWE
+1VE
+1UE
+0TE
+0SE
+zRE
+zQE
+zPE
+xOE
+1NE
+1ME
+0LE
+0KE
+zJE
+zIE
+zHE
+xGE
+1FE
+1EE
+0DE
+0CE
+zBE
+zAE
+z@E
+x?E
+1>E
+1=E
+0<E
+0;E
+z:E
+z9E
+x8E
+17E
+16E
+05E
+04E
+z3E
+z2E
+x1E
+10E
+1/E
+0.E
+0-E
+z,E
+z+E
+1*E
+1)E
+0(E
+0'E
+1&E
+1%E
+0$E
+0#E
+1"E
+1!E
+0~D
+0}D
+1|D
+1{D
+0zD
+0yD
+1xD
+1wD
+0vD
+0uD
+xtD
+1sD
+1rD
+0qD
+0pD
+zoD
+znD
+zmD
+zlD
+zkD
+xjD
+1iD
+1hD
+0gD
+0fD
+zeD
+zdD
+zcD
+zbD
+zaD
+x`D
+1_D
+1^D
+0]D
+0\D
+z[D
+zZD
+zYD
+zXD
+zWD
+xVD
+xUD
+1TD
+1SD
+0RD
+0QD
+zPD
+zOD
+zND
+zMD
+zLD
+xKD
+xJD
+1ID
+1HD
+0GD
+0FD
+zED
+zDD
+zCD
+zBD
+zAD
+x@D
+1?D
+1>D
+0=D
+0<D
+z;D
+z:D
+z9D
+x8D
+17D
+16D
+05D
+04D
+z3D
+z2D
+z1D
+x0D
+1/D
+1.D
+0-D
+0,D
+z+D
+z*D
+z)D
+x(D
+1'D
+1&D
+0%D
+0$D
+z#D
+z"D
+z!D
+z~C
+x}C
+1|C
+1{C
+0zC
+0yC
+zxC
+zwC
+zvC
+zuC
+xtC
+1sC
+1rC
+0qC
+0pC
+zoC
+znC
+zmC
+zlC
+xkC
+xjC
+1iC
+1hC
+0gC
+0fC
+zeC
+zdC
+zcC
+zbC
+xaC
+x`C
+1_C
+1^C
+0]C
+0\C
+z[C
+zZC
+zYC
+zXC
+xWC
+1VC
+1UC
+0TC
+0SC
+zRC
+zQC
+zPC
+zOC
+zNC
+xMC
+1LC
+1KC
+0JC
+0IC
+zHC
+zGC
+zFC
+zEC
+zDC
+xCC
+1BC
+1AC
+0@C
+0?C
+z>C
+z=C
+z<C
+z;C
+z:C
+x9C
+x8C
+17C
+16C
+05C
+04C
+z3C
+z2C
+z1C
+z0C
+z/C
+x.C
+x-C
+1,C
+1+C
+0*C
+0)C
+z(C
+z'C
+z&C
+z%C
+z$C
+x#C
+1"C
+1!C
+0~B
+0}B
+z|B
+z{B
+zzB
+zyB
+zxB
+xwB
+1vB
+1uB
+0tB
+0sB
+zrB
+zqB
+zpB
+zoB
+znB
+xmB
+1lB
+1kB
+0jB
+0iB
+zhB
+zgB
+zfB
+zeB
+zdB
+xcB
+1bB
+1aB
+0`B
+0_B
+z^B
+z]B
+z\B
+z[B
+zZB
+xYB
+xXB
+1WB
+1VB
+0UB
+0TB
+zSB
+zRB
+zQB
+zPB
+zOB
+xNB
+xMB
+1LB
+1KB
+0JB
+0IB
+zHB
+zGB
+zFB
+zEB
+zDB
+xCB
+xBB
+1AB
+1@B
+0?B
+0>B
+z=B
+z<B
+z;B
+z:B
+z9B
+z8B
+x7B
+x6B
+15B
+14B
+03B
+02B
+z1B
+z0B
+z/B
+z.B
+z-B
+z,B
+x+B
+x*B
+1)B
+1(B
+0'B
+0&B
+z%B
+z$B
+z#B
+z"B
+z!B
+z~A
+z}A
+1|A
+1{A
+0zA
+0yA
+zxA
+zwA
+1vA
+1uA
+0tA
+0sA
+zrA
+xqA
+1pA
+1oA
+0nA
+0mA
+zlA
+zkA
+zjA
+ziA
+xhA
+1gA
+1fA
+0eA
+0dA
+zcA
+zbA
+zaA
+z`A
+x_A
+1^A
+1]A
+0\A
+0[A
+zZA
+zYA
+zXA
+zWA
+zVA
+1UA
+1TA
+0SA
+0RA
+zQA
+zPA
+zOA
+zNA
+zMA
+1LA
+1KA
+0JA
+0IA
+zHA
+zGA
+zFA
+zEA
+zDA
+1CA
+1BA
+0AA
+0@A
+z?A
+z>A
+z=A
+z<A
+z;A
+1:A
+19A
+08A
+07A
+z6A
+z5A
+z4A
+z3A
+z2A
+11A
+10A
+0/A
+0.A
+z-A
+z,A
+z+A
+z*A
+z)A
+1(A
+1'A
+0&A
+0%A
+z$A
+z#A
+z"A
+z!A
+x~@
+1}@
+1|@
+0{@
+0z@
+zy@
+zx@
+zw@
+xv@
+1u@
+1t@
+0s@
+0r@
+zq@
+zp@
+zo@
+xn@
+1m@
+1l@
+0k@
+0j@
+zi@
+zh@
+zg@
+xf@
+1e@
+1d@
+0c@
+0b@
+za@
+z`@
+z_@
+x^@
+1]@
+1\@
+0[@
+0Z@
+zY@
+zX@
+zW@
+xV@
+1U@
+1T@
+0S@
+0R@
+zQ@
+zP@
+zO@
+xN@
+1M@
+1L@
+0K@
+0J@
+zI@
+zH@
+xG@
+1F@
+1E@
+0D@
+0C@
+zB@
+zA@
+x@@
+1?@
+1>@
+0=@
+0<@
+z;@
+z:@
+x9@
+18@
+17@
+06@
+05@
+z4@
+z3@
+x2@
+11@
+10@
+0/@
+0.@
+z-@
+z,@
+x+@
+1*@
+1)@
+0(@
+0'@
+z&@
+z%@
+x$@
+1#@
+1"@
+0!@
+0~?
+z}?
+z|?
+x{?
+1z?
+1y?
+0x?
+0w?
+zv?
+zu?
+zt?
+zs?
+zr?
+xq?
+1p?
+1o?
+0n?
+0m?
+zl?
+zk?
+zj?
+zi?
+zh?
+xg?
+1f?
+1e?
+0d?
+0c?
+zb?
+za?
+z`?
+z_?
+z^?
+x]?
+1\?
+1[?
+0Z?
+0Y?
+zX?
+zW?
+zV?
+zU?
+zT?
+xS?
+1R?
+1Q?
+0P?
+0O?
+zN?
+zM?
+zL?
+zK?
+zJ?
+xI?
+1H?
+1G?
+0F?
+0E?
+zD?
+zC?
+zB?
+zA?
+z@?
+x??
+1>?
+1=?
+0<?
+0;?
+z:?
+z9?
+z8?
+z7?
+z6?
+x5?
+14?
+13?
+02?
+01?
+z0?
+z/?
+z.?
+z-?
+z,?
+x+?
+1*?
+1)?
+0(?
+0'?
+z&?
+z%?
+z$?
+z#?
+z"?
+x!?
+1~>
+1}>
+0|>
+0{>
+zz>
+zy>
+zx>
+zw>
+zv>
+xu>
+1t>
+1s>
+0r>
+0q>
+zp>
+zo>
+zn>
+zm>
+zl>
+xk>
+1j>
+1i>
+0h>
+0g>
+zf>
+ze>
+zd>
+zc>
+zb>
+xa>
+1`>
+1_>
+0^>
+0]>
+z\>
+z[>
+zZ>
+zY>
+xX>
+1W>
+1V>
+0U>
+0T>
+zS>
+zR>
+zQ>
+zP>
+xO>
+1N>
+1M>
+0L>
+0K>
+zJ>
+zI>
+zH>
+zG>
+xF>
+1E>
+1D>
+0C>
+0B>
+zA>
+z@>
+z?>
+z>>
+x=>
+1<>
+1;>
+0:>
+09>
+z8>
+z7>
+z6>
+z5>
+x4>
+13>
+12>
+01>
+00>
+z/>
+z.>
+z->
+z,>
+x+>
+1*>
+1)>
+0(>
+0'>
+z&>
+z%>
+z$>
+z#>
+z">
+x!>
+1~=
+1}=
+0|=
+0{=
+zz=
+zy=
+zx=
+zw=
+zv=
+xu=
+1t=
+1s=
+0r=
+0q=
+zp=
+zo=
+zn=
+zm=
+zl=
+xk=
+1j=
+1i=
+0h=
+0g=
+zf=
+ze=
+zd=
+zc=
+zb=
+xa=
+1`=
+1_=
+0^=
+0]=
+z\=
+z[=
+zZ=
+zY=
+zX=
+xW=
+1V=
+1U=
+0T=
+0S=
+zR=
+zQ=
+zP=
+zO=
+zN=
+xM=
+1L=
+1K=
+0J=
+0I=
+zH=
+zG=
+zF=
+zE=
+zD=
+xC=
+1B=
+1A=
+0@=
+0?=
+z>=
+z==
+z<=
+z;=
+x:=
+19=
+18=
+07=
+06=
+z5=
+z4=
+z3=
+z2=
+x1=
+10=
+1/=
+0.=
+0-=
+z,=
+z+=
+z*=
+z)=
+x(=
+1'=
+1&=
+0%=
+0$=
+z#=
+z"=
+z!=
+z~<
+x}<
+1|<
+1{<
+0z<
+0y<
+zx<
+zw<
+zv<
+zu<
+xt<
+1s<
+1r<
+0q<
+0p<
+zo<
+zn<
+zm<
+zl<
+xk<
+1j<
+1i<
+0h<
+0g<
+zf<
+ze<
+zd<
+zc<
+xb<
+1a<
+1`<
+0_<
+0^<
+z]<
+z\<
+z[<
+zZ<
+xY<
+1X<
+1W<
+0V<
+0U<
+zT<
+zS<
+zR<
+zQ<
+xP<
+1O<
+1N<
+0M<
+0L<
+zK<
+zJ<
+zI<
+zH<
+xG<
+1F<
+1E<
+0D<
+0C<
+zB<
+zA<
+z@<
+z?<
+x><
+1=<
+1<<
+0;<
+0:<
+z9<
+z8<
+z7<
+z6<
+x5<
+14<
+13<
+02<
+01<
+z0<
+z/<
+z.<
+z-<
+z,<
+x+<
+1*<
+1)<
+0(<
+0'<
+z&<
+z%<
+z$<
+z#<
+z"<
+x!<
+1~;
+1};
+0|;
+0{;
+zz;
+zy;
+zx;
+zw;
+zv;
+xu;
+1t;
+1s;
+0r;
+0q;
+zp;
+zo;
+zn;
+zm;
+zl;
+xk;
+1j;
+1i;
+0h;
+0g;
+zf;
+ze;
+zd;
+zc;
+zb;
+xa;
+1`;
+1_;
+0^;
+0];
+z\;
+z[;
+zZ;
+zY;
+zX;
+xW;
+1V;
+1U;
+0T;
+0S;
+zR;
+zQ;
+zP;
+xO;
+1N;
+1M;
+0L;
+0K;
+zJ;
+zI;
+zH;
+xG;
+1F;
+1E;
+0D;
+0C;
+zB;
+zA;
+z@;
+x?;
+1>;
+1=;
+0<;
+0;;
+z:;
+z9;
+z8;
+x7;
+16;
+15;
+04;
+03;
+z2;
+z1;
+z0;
+x/;
+1.;
+1-;
+0,;
+0+;
+z*;
+z);
+z(;
+x';
+1&;
+1%;
+0$;
+0#;
+z";
+z!;
+z~:
+x}:
+1|:
+1{:
+0z:
+0y:
+zx:
+zw:
+zv:
+xu:
+1t:
+1s:
+0r:
+0q:
+zp:
+zo:
+zn:
+xm:
+1l:
+1k:
+0j:
+0i:
+zh:
+zg:
+zf:
+xe:
+1d:
+1c:
+0b:
+0a:
+z`:
+z_:
+z^:
+x]:
+1\:
+1[:
+0Z:
+0Y:
+zX:
+zW:
+zV:
+xU:
+1T:
+1S:
+0R:
+0Q:
+zP:
+zO:
+zN:
+xM:
+1L:
+1K:
+0J:
+0I:
+zH:
+zG:
+zF:
+zE:
+xD:
+1C:
+1B:
+0A:
+0@:
+z?:
+z>:
+z=:
+z<:
+x;:
+1::
+19:
+08:
+07:
+z6:
+z5:
+z4:
+z3:
+x2:
+11:
+10:
+0/:
+0.:
+z-:
+z,:
+z+:
+z*:
+x):
+1(:
+1':
+0&:
+0%:
+z$:
+z#:
+z":
+z!:
+x~9
+1}9
+1|9
+0{9
+0z9
+zy9
+zx9
+zw9
+zv9
+xu9
+1t9
+1s9
+0r9
+0q9
+zp9
+zo9
+zn9
+zm9
+zl9
+xk9
+1j9
+1i9
+0h9
+0g9
+zf9
+ze9
+zd9
+zc9
+zb9
+xa9
+1`9
+1_9
+0^9
+0]9
+z\9
+z[9
+zZ9
+zY9
+zX9
+xW9
+1V9
+1U9
+0T9
+0S9
+zR9
+zQ9
+zP9
+zO9
+zN9
+xM9
+1L9
+1K9
+0J9
+0I9
+zH9
+zG9
+zF9
+zE9
+zD9
+xC9
+1B9
+1A9
+0@9
+0?9
+z>9
+z=9
+z<9
+z;9
+z:9
+x99
+189
+179
+069
+059
+z49
+z39
+z29
+z19
+x09
+1/9
+1.9
+0-9
+0,9
+z+9
+z*9
+z)9
+z(9
+x'9
+1&9
+1%9
+0$9
+0#9
+z"9
+z!9
+z~8
+z}8
+z|8
+1{8
+1z8
+0y8
+0x8
+zw8
+zv8
+zu8
+zt8
+zs8
+1r8
+1q8
+0p8
+0o8
+zn8
+zm8
+zl8
+zk8
+zj8
+1i8
+1h8
+0g8
+0f8
+ze8
+zd8
+zc8
+zb8
+za8
+1`8
+1_8
+0^8
+0]8
+z\8
+z[8
+zZ8
+zY8
+zX8
+1W8
+1V8
+0U8
+0T8
+zS8
+zR8
+zQ8
+zP8
+zO8
+1N8
+1M8
+0L8
+0K8
+zJ8
+zI8
+zH8
+zG8
+xF8
+1E8
+1D8
+0C8
+0B8
+zA8
+z@8
+z?8
+x>8
+1=8
+1<8
+0;8
+0:8
+z98
+z88
+z78
+x68
+158
+148
+038
+028
+z18
+z08
+z/8
+x.8
+1-8
+1,8
+0+8
+0*8
+z)8
+z(8
+z'8
+x&8
+1%8
+1$8
+0#8
+0"8
+z!8
+z~7
+z}7
+x|7
+1{7
+1z7
+0y7
+0x7
+zw7
+zv7
+zu7
+xt7
+1s7
+1r7
+0q7
+0p7
+zo7
+zn7
+xm7
+1l7
+1k7
+0j7
+0i7
+zh7
+zg7
+xf7
+1e7
+1d7
+0c7
+0b7
+za7
+z`7
+x_7
+1^7
+1]7
+0\7
+0[7
+zZ7
+zY7
+xX7
+1W7
+1V7
+0U7
+0T7
+zS7
+zR7
+xQ7
+1P7
+1O7
+0N7
+0M7
+zL7
+zK7
+xJ7
+1I7
+1H7
+0G7
+0F7
+zE7
+zD7
+zC7
+zB7
+xA7
+1@7
+1?7
+0>7
+0=7
+z<7
+z;7
+z:7
+z97
+x87
+177
+167
+057
+047
+z37
+z27
+z17
+z07
+z/7
+1.7
+1-7
+0,7
+0+7
+z*7
+z)7
+z(7
+z'7
+z&7
+1%7
+1$7
+0#7
+0"7
+z!7
+z~6
+z}6
+z|6
+z{6
+1z6
+1y6
+0x6
+0w6
+zv6
+zu6
+zt6
+zs6
+zr6
+1q6
+1p6
+0o6
+0n6
+zm6
+zl6
+zk6
+zj6
+zi6
+1h6
+1g6
+0f6
+0e6
+zd6
+zc6
+zb6
+za6
+z`6
+1_6
+1^6
+0]6
+0\6
+z[6
+zZ6
+zY6
+zX6
+xW6
+1V6
+1U6
+0T6
+0S6
+zR6
+zQ6
+zP6
+xO6
+1N6
+1M6
+0L6
+0K6
+zJ6
+zI6
+zH6
+xG6
+1F6
+1E6
+0D6
+0C6
+zB6
+zA6
+z@6
+x?6
+1>6
+1=6
+0<6
+0;6
+z:6
+z96
+z86
+x76
+166
+156
+046
+036
+z26
+z16
+z06
+x/6
+1.6
+1-6
+0,6
+0+6
+z*6
+z)6
+z(6
+x'6
+1&6
+1%6
+0$6
+0#6
+z"6
+z!6
+x~5
+1}5
+1|5
+0{5
+0z5
+zy5
+zx5
+xw5
+1v5
+1u5
+0t5
+0s5
+zr5
+zq5
+xp5
+1o5
+1n5
+0m5
+0l5
+zk5
+zj5
+xi5
+1h5
+1g5
+0f5
+0e5
+zd5
+zc5
+xb5
+1a5
+1`5
+0_5
+0^5
+z]5
+z\5
+x[5
+1Z5
+1Y5
+0X5
+0W5
+zV5
+zU5
+zT5
+zS5
+zR5
+zQ5
+xP5
+1O5
+1N5
+0M5
+0L5
+zK5
+zJ5
+zI5
+zH5
+zG5
+zF5
+xE5
+1D5
+1C5
+0B5
+0A5
+z@5
+z?5
+z>5
+z=5
+z<5
+z;5
+x:5
+195
+185
+075
+065
+z55
+z45
+z35
+x25
+115
+105
+0/5
+0.5
+z-5
+z,5
+z+5
+x*5
+1)5
+1(5
+0'5
+0&5
+z%5
+z$5
+z#5
+x"5
+1!5
+1~4
+0}4
+0|4
+z{4
+zz4
+zy4
+xx4
+1w4
+1v4
+0u4
+0t4
+zs4
+zr4
+zq4
+xp4
+1o4
+1n4
+0m4
+0l4
+zk4
+zj4
+zi4
+xh4
+1g4
+1f4
+0e4
+0d4
+zc4
+zb4
+za4
+x`4
+1_4
+1^4
+0]4
+0\4
+z[4
+zZ4
+zY4
+1X4
+1W4
+1V4
+1U4
+0T4
+0S4
+0R4
+1Q4
+0P4
+zO4
+1N4
+1M4
+0L4
+zK4
+zJ4
+1I4
+1H4
+0G4
+zF4
+zE4
+1D4
+1C4
+0B4
+zA4
+z@4
+1?4
+1>4
+0=4
+0<4
+z;4
+z:4
+194
+184
+074
+z64
+z54
+144
+134
+024
+z14
+z04
+1/4
+1.4
+0-4
+z,4
+x+4
+1*4
+1)4
+0(4
+0'4
+z&4
+1%4
+z$4
+x#4
+1"4
+1!4
+0~3
+0}3
+z|3
+z{3
+xz3
+1y3
+1x3
+0w3
+0v3
+zu3
+zt3
+xs3
+1r3
+1q3
+0p3
+0o3
+zn3
+zm3
+xl3
+1k3
+1j3
+0i3
+0h3
+zg3
+zf3
+xe3
+1d3
+1c3
+0b3
+0a3
+z`3
+z_3
+x^3
+1]3
+1\3
+0[3
+0Z3
+zY3
+zX3
+xW3
+1V3
+1U3
+0T3
+0S3
+zR3
+zQ3
+xP3
+1O3
+1N3
+0M3
+0L3
+zK3
+zJ3
+xI3
+1H3
+1G3
+0F3
+0E3
+zD3
+zC3
+xB3
+1A3
+1@3
+0?3
+0>3
+z=3
+z<3
+1;3
+1:3
+093
+083
+173
+163
+153
+043
+033
+123
+113
+103
+0/3
+0.3
+1-3
+1,3
+1+3
+0*3
+0)3
+1(3
+1'3
+1&3
+0%3
+0$3
+1#3
+z"3
+1!3
+1~2
+0}2
+0|2
+1{2
+zz2
+zy2
+1x2
+1w2
+0v2
+0u2
+1t2
+zs2
+zr2
+1q2
+1p2
+0o2
+0n2
+1m2
+zl2
+zk2
+1j2
+1i2
+0h2
+0g2
+1f2
+ze2
+zd2
+1c2
+1b2
+0a2
+0`2
+1_2
+z^2
+z]2
+1\2
+1[2
+0Z2
+0Y2
+1X2
+zW2
+zV2
+1U2
+1T2
+0S2
+0R2
+1Q2
+zP2
+zO2
+1N2
+1M2
+0L2
+0K2
+1J2
+zI2
+zH2
+1G2
+1F2
+0E2
+0D2
+1C2
+zB2
+zA2
+1@2
+1?2
+0>2
+0=2
+1<2
+z;2
+1:2
+092
+082
+z72
+z62
+152
+142
+032
+022
+z12
+z02
+1/2
+1.2
+0-2
+0,2
+z+2
+z*2
+1)2
+1(2
+0'2
+0&2
+z%2
+z$2
+1#2
+1"2
+0!2
+0~1
+z}1
+z|1
+1{1
+1z1
+0y1
+0x1
+zw1
+zv1
+1u1
+1t1
+0s1
+0r1
+zq1
+xp1
+xo1
+1n1
+1m1
+0l1
+0k1
+zj1
+zi1
+xh1
+xg1
+1f1
+1e1
+0d1
+0c1
+zb1
+za1
+x`1
+x_1
+1^1
+1]1
+0\1
+0[1
+zZ1
+zY1
+1X1
+1W1
+0V1
+0U1
+1T1
+1S1
+0R1
+0Q1
+1P1
+1O1
+0N1
+0M1
+1L1
+1K1
+0J1
+0I1
+xH1
+xG1
+1F1
+1E1
+0D1
+0C1
+zB1
+zA1
+z@1
+x?1
+x>1
+1=1
+1<1
+0;1
+0:1
+z91
+z81
+z71
+x61
+x51
+141
+131
+021
+011
+z01
+z/1
+z.1
+x-1
+x,1
+1+1
+1*1
+0)1
+0(1
+z'1
+z&1
+z%1
+x$1
+x#1
+1"1
+1!1
+0~0
+0}0
+z|0
+z{0
+zz0
+xy0
+xx0
+1w0
+1v0
+0u0
+0t0
+zs0
+zr0
+zq0
+xp0
+1o0
+1n0
+0m0
+0l0
+zk0
+zj0
+xi0
+1h0
+1g0
+0f0
+0e0
+zd0
+zc0
+xb0
+1a0
+1`0
+0_0
+0^0
+z]0
+z\0
+x[0
+1Z0
+1Y0
+0X0
+0W0
+zV0
+zU0
+xT0
+1S0
+1R0
+0Q0
+0P0
+zO0
+zN0
+xM0
+1L0
+1K0
+0J0
+0I0
+zH0
+zG0
+xF0
+1E0
+1D0
+0C0
+0B0
+zA0
+z@0
+x?0
+1>0
+1=0
+0<0
+0;0
+z:0
+z90
+x80
+170
+160
+050
+040
+z30
+z20
+x10
+100
+1/0
+0.0
+0-0
+z,0
+z+0
+z*0
+x)0
+x(0
+1'0
+1&0
+0%0
+0$0
+z#0
+z"0
+z!0
+x~/
+1}/
+1|/
+0{/
+0z/
+zy/
+zx/
+xw/
+1v/
+1u/
+0t/
+0s/
+zr/
+zq/
+xp/
+1o/
+1n/
+0m/
+0l/
+zk/
+zj/
+xi/
+1h/
+1g/
+0f/
+0e/
+zd/
+zc/
+zb/
+1a/
+1`/
+0_/
+0^/
+z]/
+z\/
+1[/
+1Z/
+0Y/
+0X/
+zW/
+zV/
+1U/
+1T/
+0S/
+0R/
+zQ/
+zP/
+1O/
+1N/
+0M/
+0L/
+zK/
+zJ/
+1I/
+1H/
+0G/
+0F/
+zE/
+zD/
+1C/
+1B/
+0A/
+0@/
+z?/
+x>/
+1=/
+1</
+0;/
+0:/
+z9/
+z8/
+x7/
+16/
+15/
+04/
+03/
+z2/
+z1/
+x0/
+1//
+1./
+0-/
+0,/
+z+/
+z*/
+x)/
+1(/
+1'/
+0&/
+0%/
+z$/
+z#/
+x"/
+x!/
+1~.
+1}.
+0|.
+0{.
+zz.
+zy.
+xx.
+xw.
+1v.
+1u.
+0t.
+0s.
+zr.
+zq.
+xp.
+xo.
+1n.
+1m.
+0l.
+0k.
+zj.
+zi.
+xh.
+1g.
+1f.
+0e.
+0d.
+zc.
+zb.
+za.
+x`.
+1_.
+1^.
+0].
+0\.
+z[.
+zZ.
+zY.
+xX.
+1W.
+1V.
+0U.
+0T.
+zS.
+zR.
+zQ.
+xP.
+1O.
+1N.
+0M.
+0L.
+zK.
+zJ.
+zI.
+xH.
+1G.
+1F.
+0E.
+0D.
+zC.
+zB.
+zA.
+x@.
+1?.
+1>.
+0=.
+0<.
+z;.
+z:.
+z9.
+x8.
+x7.
+16.
+15.
+04.
+03.
+z2.
+z1.
+z0.
+x/.
+x..
+1-.
+1,.
+0+.
+0*.
+z).
+z(.
+z'.
+x&.
+x%.
+1$.
+1#.
+0".
+0!.
+z~-
+z}-
+z|-
+x{-
+xz-
+1y-
+1x-
+0w-
+0v-
+zu-
+zt-
+zs-
+xr-
+1q-
+1p-
+0o-
+0n-
+zm-
+zl-
+xk-
+1j-
+1i-
+0h-
+0g-
+zf-
+ze-
+xd-
+1c-
+1b-
+0a-
+0`-
+z_-
+z^-
+1]-
+1\-
+0[-
+0Z-
+zY-
+xX-
+1W-
+1V-
+0U-
+0T-
+zS-
+zR-
+xQ-
+1P-
+1O-
+0N-
+0M-
+zL-
+zK-
+xJ-
+1I-
+1H-
+0G-
+0F-
+zE-
+zD-
+xC-
+xB-
+1A-
+1@-
+0?-
+0>-
+z=-
+z<-
+x;-
+x:-
+19-
+18-
+07-
+06-
+z5-
+z4-
+x3-
+12-
+11-
+00-
+0/-
+z.-
+z--
+z,-
+x+-
+1*-
+1)-
+0(-
+0'-
+z&-
+z%-
+z$-
+x#-
+1"-
+1!-
+0~,
+0},
+z|,
+z{,
+zz,
+xy,
+xx,
+1w,
+1v,
+0u,
+0t,
+zs,
+zr,
+zq,
+xp,
+xo,
+1n,
+1m,
+0l,
+0k,
+zj,
+zi,
+zh,
+xg,
+1f,
+1e,
+0d,
+0c,
+zb,
+za,
+z`,
+x_,
+1^,
+1],
+0\,
+0[,
+zZ,
+zY,
+zX,
+xW,
+1V,
+1U,
+0T,
+0S,
+zR,
+zQ,
+zP,
+xO,
+1N,
+1M,
+0L,
+0K,
+zJ,
+zI,
+zH,
+xG,
+xF,
+1E,
+1D,
+0C,
+0B,
+zA,
+z@,
+z?,
+x>,
+x=,
+1<,
+1;,
+0:,
+09,
+z8,
+z7,
+z6,
+x5,
+x4,
+13,
+12,
+01,
+00,
+z/,
+z.,
+z-,
+z,,
+x+,
+x*,
+1),
+1(,
+0',
+0&,
+z%,
+z$,
+z#,
+z",
+x!,
+x~+
+1}+
+1|+
+0{+
+0z+
+zy+
+zx+
+zw+
+zv+
+1u+
+1t+
+0s+
+0r+
+1q+
+1p+
+0o+
+0n+
+1m+
+1l+
+0k+
+0j+
+1i+
+1h+
+0g+
+0f+
+1e+
+1d+
+0c+
+0b+
+za+
+1`+
+1_+
+0^+
+0]+
+z\+
+z[+
+1Z+
+1Y+
+0X+
+0W+
+zV+
+zU+
+1T+
+1S+
+0R+
+0Q+
+zP+
+zO+
+1N+
+1M+
+0L+
+0K+
+zJ+
+zI+
+1H+
+1G+
+0F+
+0E+
+zD+
+zC+
+1B+
+1A+
+0@+
+0?+
+z>+
+z=+
+1<+
+1;+
+0:+
+09+
+z8+
+z7+
+16+
+15+
+04+
+03+
+z2+
+z1+
+10+
+1/+
+0.+
+0-+
+z,+
+z++
+1*+
+1)+
+0(+
+0'+
+z&+
+z%+
+1$+
+1#+
+0"+
+0!+
+z~*
+z}*
+1|*
+1{*
+0z*
+0y*
+zx*
+zw*
+1v*
+1u*
+0t*
+0s*
+zr*
+zq*
+1p*
+1o*
+0n*
+0m*
+zl*
+zk*
+1j*
+1i*
+0h*
+0g*
+zf*
+ze*
+1d*
+1c*
+0b*
+0a*
+z`*
+z_*
+1^*
+1]*
+0\*
+0[*
+zZ*
+zY*
+1X*
+1W*
+0V*
+0U*
+zT*
+zS*
+1R*
+1Q*
+0P*
+0O*
+zN*
+zM*
+1L*
+1K*
+0J*
+0I*
+zH*
+zG*
+1F*
+1E*
+0D*
+0C*
+zB*
+zA*
+1@*
+1?*
+0>*
+0=*
+z<*
+z;*
+1:*
+19*
+08*
+07*
+z6*
+z5*
+14*
+13*
+02*
+01*
+z0*
+z/*
+1.*
+1-*
+0,*
+0+*
+z**
+z)*
+1(*
+1'*
+0&*
+0%*
+z$*
+z#*
+1"*
+1!*
+0~)
+0})
+z|)
+z{)
+1z)
+1y)
+0x)
+0w)
+zv)
+zu)
+1t)
+1s)
+0r)
+0q)
+zp)
+zo)
+1n)
+1m)
+0l)
+0k)
+zj)
+zi)
+1h)
+1g)
+0f)
+0e)
+zd)
+xc)
+1b)
+1a)
+0`)
+0_)
+z^)
+z])
+z\)
+z[)
+xZ)
+1Y)
+1X)
+0W)
+0V)
+zU)
+zT)
+zS)
+zR)
+xQ)
+1P)
+1O)
+0N)
+0M)
+zL)
+zK)
+zJ)
+zI)
+zH)
+1G)
+1F)
+0E)
+0D)
+zC)
+zB)
+zA)
+z@)
+z?)
+1>)
+1=)
+0<)
+0;)
+z:)
+z9)
+z8)
+z7)
+z6)
+15)
+14)
+03)
+02)
+z1)
+z0)
+z/)
+z.)
+z-)
+1,)
+1+)
+0*)
+0))
+z()
+z')
+z&)
+z%)
+z$)
+1#)
+1")
+0!)
+0~(
+z}(
+z|(
+z{(
+zz(
+zy(
+1x(
+1w(
+0v(
+0u(
+zt(
+zs(
+zr(
+zq(
+xp(
+1o(
+1n(
+0m(
+0l(
+zk(
+zj(
+zi(
+xh(
+1g(
+1f(
+0e(
+0d(
+zc(
+zb(
+za(
+x`(
+1_(
+1^(
+0](
+0\(
+z[(
+zZ(
+zY(
+xX(
+1W(
+1V(
+0U(
+0T(
+zS(
+zR(
+zQ(
+xP(
+1O(
+1N(
+0M(
+0L(
+zK(
+zJ(
+zI(
+xH(
+1G(
+1F(
+0E(
+0D(
+zC(
+zB(
+zA(
+x@(
+1?(
+1>(
+0=(
+0<(
+z;(
+z:(
+x9(
+18(
+17(
+06(
+05(
+z4(
+z3(
+x2(
+11(
+10(
+0/(
+0.(
+z-(
+z,(
+x+(
+1*(
+1)(
+0((
+0'(
+z&(
+z%(
+x$(
+1#(
+1"(
+0!(
+0~'
+z}'
+z|'
+x{'
+1z'
+1y'
+0x'
+0w'
+zv'
+zu'
+xt'
+1s'
+1r'
+0q'
+0p'
+zo'
+zn'
+xm'
+1l'
+1k'
+0j'
+0i'
+zh'
+zg'
+zf'
+ze'
+zd'
+xc'
+1b'
+1a'
+0`'
+0_'
+z^'
+z]'
+z\'
+z['
+zZ'
+xY'
+1X'
+1W'
+0V'
+0U'
+zT'
+zS'
+zR'
+zQ'
+zP'
+xO'
+1N'
+1M'
+0L'
+0K'
+zJ'
+zI'
+zH'
+zG'
+zF'
+xE'
+1D'
+1C'
+0B'
+0A'
+z@'
+z?'
+z>'
+z='
+z<'
+x;'
+1:'
+19'
+08'
+07'
+z6'
+z5'
+z4'
+z3'
+z2'
+x1'
+10'
+1/'
+0.'
+0-'
+z,'
+z+'
+z*'
+z)'
+z('
+x''
+1&'
+1%'
+0$'
+0#'
+z"'
+z!'
+z~&
+z}&
+z|&
+x{&
+1z&
+1y&
+0x&
+0w&
+zv&
+zu&
+zt&
+zs&
+zr&
+xq&
+1p&
+1o&
+0n&
+0m&
+zl&
+zk&
+zj&
+zi&
+zh&
+xg&
+1f&
+1e&
+0d&
+0c&
+zb&
+za&
+z`&
+z_&
+z^&
+x]&
+1\&
+1[&
+0Z&
+0Y&
+zX&
+zW&
+zV&
+zU&
+zT&
+xS&
+1R&
+1Q&
+0P&
+0O&
+zN&
+zM&
+zL&
+zK&
+xJ&
+1I&
+1H&
+0G&
+0F&
+zE&
+zD&
+zC&
+zB&
+xA&
+1@&
+1?&
+0>&
+0=&
+z<&
+z;&
+z:&
+z9&
+x8&
+17&
+16&
+05&
+04&
+z3&
+z2&
+z1&
+z0&
+x/&
+1.&
+1-&
+0,&
+0+&
+z*&
+z)&
+z(&
+z'&
+x&&
+1%&
+1$&
+0#&
+0"&
+z!&
+z~%
+z}%
+z|%
+x{%
+1z%
+1y%
+0x%
+0w%
+zv%
+zu%
+zt%
+zs%
+zr%
+xq%
+1p%
+1o%
+0n%
+0m%
+zl%
+zk%
+zj%
+zi%
+zh%
+xg%
+1f%
+1e%
+0d%
+0c%
+zb%
+za%
+z`%
+z_%
+z^%
+x]%
+1\%
+1[%
+0Z%
+0Y%
+zX%
+zW%
+zV%
+zU%
+zT%
+xS%
+1R%
+1Q%
+0P%
+0O%
+zN%
+zM%
+zL%
+zK%
+zJ%
+xI%
+1H%
+1G%
+0F%
+0E%
+zD%
+zC%
+zB%
+zA%
+z@%
+x?%
+1>%
+1=%
+0<%
+0;%
+z:%
+z9%
+z8%
+z7%
+x6%
+15%
+14%
+03%
+02%
+z1%
+z0%
+z/%
+z.%
+x-%
+1,%
+1+%
+0*%
+0)%
+z(%
+z'%
+z&%
+z%%
+x$%
+1#%
+1"%
+0!%
+0~$
+z}$
+z|$
+z{$
+zz$
+xy$
+1x$
+1w$
+0v$
+0u$
+zt$
+zs$
+zr$
+zq$
+xp$
+1o$
+1n$
+0m$
+0l$
+zk$
+zj$
+zi$
+zh$
+xg$
+1f$
+1e$
+0d$
+0c$
+zb$
+za$
+z`$
+z_$
+x^$
+1]$
+1\$
+0[$
+0Z$
+zY$
+zX$
+zW$
+zV$
+xU$
+1T$
+1S$
+0R$
+0Q$
+zP$
+zO$
+zN$
+zM$
+xL$
+1K$
+1J$
+0I$
+0H$
+zG$
+zF$
+zE$
+zD$
+xC$
+1B$
+1A$
+0@$
+0?$
+z>$
+z=$
+z<$
+z;$
+x:$
+19$
+18$
+07$
+06$
+z5$
+z4$
+z3$
+z2$
+x1$
+10$
+1/$
+0.$
+0-$
+z,$
+z+$
+z*$
+z)$
+z($
+z'$
+x&$
+1%$
+1$$
+0#$
+0"$
+z!$
+z~#
+z}#
+z|#
+z{#
+xz#
+1y#
+1x#
+0w#
+0v#
+zu#
+zt#
+zs#
+zr#
+zq#
+xp#
+1o#
+1n#
+0m#
+0l#
+zk#
+zj#
+zi#
+zh#
+zg#
+xf#
+1e#
+1d#
+0c#
+0b#
+za#
+z`#
+z_#
+z^#
+z]#
+x\#
+1[#
+1Z#
+0Y#
+0X#
+zW#
+zV#
+zU#
+zT#
+zS#
+xR#
+1Q#
+1P#
+0O#
+0N#
+zM#
+zL#
+zK#
+zJ#
+zI#
+xH#
+1G#
+1F#
+0E#
+0D#
+zC#
+zB#
+zA#
+x@#
+1?#
+1>#
+0=#
+0<#
+z;#
+z:#
+z9#
+x8#
+17#
+16#
+05#
+04#
+z3#
+z2#
+z1#
+x0#
+1/#
+1.#
+0-#
+0,#
+z+#
+z*#
+z)#
+x(#
+1'#
+1&#
+0%#
+0$#
+z##
+z"#
+z!#
+x~"
+1}"
+1|"
+0{"
+0z"
+zy"
+zx"
+zw"
+xv"
+1u"
+1t"
+0s"
+0r"
+zq"
+zp"
+zo"
+xn"
+1m"
+1l"
+0k"
+0j"
+zi"
+zh"
+zg"
+xf"
+1e"
+1d"
+0c"
+0b"
+za"
+z`"
+z_"
+x^"
+1]"
+1\"
+0["
+0Z"
+zY"
+zX"
+zW"
+xV"
+1U"
+1T"
+0S"
+0R"
+zQ"
+zP"
+zO"
+xN"
+1M"
+1L"
+0K"
+0J"
+zI"
+zH"
+zG"
+xF"
+1E"
+1D"
+0C"
+0B"
+zA"
+z@"
+z?"
+x>"
+1="
+1<"
+0;"
+0:"
+z9"
+z8"
+z7"
+z6"
+x5"
+14"
+13"
+02"
+01"
+z0"
+z/"
+z."
+z-"
+x,"
+1+"
+1*"
+0)"
+0("
+z'"
+z&"
+z%"
+z$"
+x#"
+1""
+1!"
+0~
+0}
+z|
+z{
+zz
+zy
+xx
+1w
+1v
+0u
+0t
+zs
+zr
+zq
+zp
+xo
+1n
+1m
+0l
+0k
+zj
+zi
+zh
+zg
+xf
+1e
+1d
+0c
+0b
+za
+z`
+z_
+z^
+z]
+x\
+1[
+1Z
+0Y
+0X
+zW
+zV
+zU
+zT
+zS
+xR
+1Q
+1P
+0O
+0N
+zM
+zL
+zK
+zJ
+zI
+xH
+1G
+1F
+0E
+0D
+zC
+zB
+zA
+z@
+z?
+x>
+1=
+1<
+0;
+0:
+z9
+z8
+z7
+z6
+z5
+x4
+13
+12
+01
+00
+z/
+z.
+z-
+z,
+z+
+x*
+1)
+1(
+0'
+0&
+z%
+z$
+z#
+z"
+z!
+$end
+#5000
+b11 }E
+b10 "F
+b1 !F
+b1 #F
+#10000
+b110 }E
+b100 "F
+b10 !F
+b10 #F
+#15000
+b1001 }E
+b110 "F
+b11 !F
+b11 #F
+#20000
+b1100 }E
+b1000 "F
+b100 !F
+b100 #F
+#25000
+b1111 }E
+b1010 "F
+b101 !F
+b101 #F
+#30000
+b10010 }E
+b1100 "F
+b110 !F
+b110 #F
+#35000
+b10101 }E
+b1110 "F
+b111 !F
+b111 #F
+#40000
+b11000 }E
+b10000 "F
+b1000 !F
+b1000 #F
+#45000
+b11011 }E
+b10010 "F
+b1001 !F
+b1001 #F
+#50000
+b11110 }E
+b10100 "F
+b1010 !F
+b1010 #F
+#55000
+b100001 }E
+b10110 "F
+b1011 !F
+b1011 #F
+#60000
+b100100 }E
+b11000 "F
+b1100 !F
+b1100 #F
+#65000
+b100111 }E
+b11010 "F
+b1101 !F
+b1101 #F
+#70000
+b101010 }E
+b11100 "F
+b1110 !F
+b1110 #F
+#75000
+b101101 }E
+b11110 "F
+b1111 !F
+b1111 #F
+#80000
+b10000 #F
